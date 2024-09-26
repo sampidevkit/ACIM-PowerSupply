@@ -593,7 +593,7 @@
       "plot": "../../Production/Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "HW.ACIM-PSU.step",
+      "step": "../../Production/3D/HW.ACIM-PSU.step",
       "svg": "",
       "vrml": ""
     },
@@ -730,7 +730,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "TDTU_Sheet.kicad_wks",
-    "plot_directory": "",
+    "plot_directory": "../../Production/Schematic/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
