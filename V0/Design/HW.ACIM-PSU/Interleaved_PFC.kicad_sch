@@ -6046,6 +6046,27 @@
 		)
 		(uuid f9ffe902-93d7-4efb-8f2c-2bb080975290)
 	)
+	(text_box "Short circuit D8 & D11"
+		(exclude_from_sim no)
+		(at 128.27 15.875 0)
+		(size 15.24 5.08)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 200 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 200 0 0 1)
+			)
+			(justify top)
+		)
+		(uuid "f32f15fd-6cda-4803-9ac9-f35cb2611401")
+	)
 	(text "Place between\nand close to\nQ3 & Q4"
 		(exclude_from_sim no)
 		(at 46.99 114.3 0)
