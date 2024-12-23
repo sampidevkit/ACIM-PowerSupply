@@ -6329,139 +6329,139 @@
 		)
 	)
 	(junction
-		(at 39.37 25.4)
+		(at 46.99 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0c7150a8-49bb-443d-9cab-39035b5fb963")
 	)
 	(junction
-		(at 40.64 80.01)
+		(at 48.26 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0d091362-a3e6-42a7-9e92-0f53ec2d6ca9")
 	)
 	(junction
-		(at 206.375 44.45)
+		(at 213.995 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "10280ab7-6fb6-4f0d-96f1-2f8287fdfa13")
 	)
 	(junction
-		(at 30.48 80.01)
+		(at 38.1 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "17f666c0-a044-43f0-8e17-f2243bc6c809")
 	)
 	(junction
-		(at 130.81 45.72)
+		(at 138.43 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "183dce6b-8c73-4ef8-832c-aba8ff0593c1")
 	)
 	(junction
-		(at 39.37 45.72)
+		(at 46.99 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "21c6b149-0669-413c-ab2f-a644eedc2ec3")
 	)
 	(junction
-		(at 115.57 25.4)
+		(at 123.19 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2359fcb5-58b4-499c-9a44-a623ae8e9bcc")
 	)
 	(junction
-		(at 63.5 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "249494b4-e01d-4f46-acb1-2625a99ff486")
-	)
-	(junction
-		(at 46.99 119.38)
+		(at 54.61 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "26f1c51b-37a3-41bb-8c24-d3027d1ef962")
 	)
 	(junction
-		(at 124.46 25.4)
+		(at 132.08 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "280ea0e1-87c6-45db-b946-6ba65c91f571")
 	)
 	(junction
-		(at 168.91 35.56)
+		(at 176.53 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a05ae70-cdd0-456a-9ded-10cad86d6c52")
 	)
 	(junction
-		(at 26.67 45.72)
+		(at 71.12 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2b5c47f8-9bcf-426d-b6c8-1190923024f5")
+	)
+	(junction
+		(at 34.29 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2f7b8ed7-4606-41c6-baa2-e70c3f7b5fa8")
 	)
 	(junction
-		(at 271.78 17.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31abbca6-90bd-4a04-9358-007ccb95819d")
-	)
-	(junction
-		(at 30.48 69.85)
+		(at 38.1 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a7b2afb-14bb-4522-b50a-0a4ca76b65ce")
 	)
 	(junction
-		(at 54.61 25.4)
+		(at 62.23 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3c54a4b6-7e54-4b9e-b495-ba7043a29862")
 	)
 	(junction
-		(at 20.32 101.6)
+		(at 27.94 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3f7f8df3-5088-44fe-b364-bd6afa58c0a6")
 	)
 	(junction
-		(at 101.6 101.6)
+		(at 109.22 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3faed682-f28e-4ede-8423-8acac3bdf8d9")
 	)
 	(junction
-		(at 78.74 101.6)
+		(at 71.12 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5529f0d2-d2cd-4d1f-86e6-c1b31e3e1288")
+	)
+	(junction
+		(at 86.36 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "563187d5-5ab5-4b4e-9cd5-679de69c24fa")
 	)
 	(junction
-		(at 144.145 35.56)
+		(at 151.765 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5710dc0f-8917-4aca-b792-013530f3f628")
 	)
 	(junction
-		(at 40.64 69.85)
+		(at 48.26 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5bae30c7-9f91-410e-bee6-b1008d8a28ac")
 	)
 	(junction
-		(at 137.16 45.72)
+		(at 144.78 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "61c3a243-e7c9-4e50-9c37-4f4437bf256e")
 	)
 	(junction
-		(at 201.295 59.69)
+		(at 208.915 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66333644-84d4-40cf-98a3-e54679b45d87")
 	)
 	(junction
-		(at 20.32 80.01)
+		(at 27.94 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "75a5a1e5-7a1a-43d9-b855-6c1963b63528")
@@ -6473,25 +6473,25 @@
 		(uuid "75f9919d-87d2-41a4-bf39-1c65ec9aacdd")
 	)
 	(junction
-		(at 230.505 38.1)
+		(at 238.125 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d3a846b-b408-4df6-aad6-23298e7f74fd")
 	)
 	(junction
-		(at 137.16 35.56)
+		(at 144.78 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d607073-ef1e-4f74-a55a-94a3101a2fc1")
 	)
 	(junction
-		(at 102.87 25.4)
+		(at 110.49 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7e5ebbf1-1eeb-40b2-8a47-71316bff0620")
 	)
 	(junction
-		(at 211.455 27.94)
+		(at 219.075 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8128498a-c0b7-40d6-9662-666e488298c2")
@@ -6503,19 +6503,19 @@
 		(uuid "81507e22-8638-45ba-93d6-d35e067b22e0")
 	)
 	(junction
-		(at 57.15 101.6)
+		(at 64.77 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "823cbebc-e881-45ff-9364-06a66c273d08")
 	)
 	(junction
-		(at 130.81 25.4)
+		(at 138.43 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "860462a7-d4e4-4bf3-a0b1-6e7b8b9ee1d7")
 	)
 	(junction
-		(at 68.58 101.6)
+		(at 76.2 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a00c23b-cd11-4ce1-afe8-c195157ac09e")
@@ -6527,140 +6527,128 @@
 		(uuid "8ab7c127-2e72-409c-9114-fa2e66258587")
 	)
 	(junction
-		(at 246.38 17.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8d1cc20d-3d78-4eb0-88e7-b984041d204c")
-	)
-	(junction
-		(at 246.38 27.94)
+		(at 254 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8ffcd6f3-1f76-4c31-a3a0-eabaf0ffe2db")
 	)
 	(junction
-		(at 57.15 114.3)
+		(at 64.77 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "94e6fdd5-9ca3-4b84-945b-0f52a73a0e34")
 	)
 	(junction
-		(at 20.32 116.84)
+		(at 27.94 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9e30c514-4e5e-4e87-9373-11a08f4dfa0b")
 	)
 	(junction
-		(at 63.5 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a13f8661-8a0c-4b97-a488-4160d33d88f8")
-	)
-	(junction
-		(at 153.67 25.4)
+		(at 161.29 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a7e0be78-a705-431a-b9b8-ea47a0bac513")
 	)
 	(junction
-		(at 211.455 25.4)
+		(at 219.075 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "abb460f3-9b5f-4765-80f2-68ba5f9220a2")
 	)
 	(junction
-		(at 69.85 25.4)
+		(at 77.47 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b2dc3da4-d0d1-4beb-93d7-fa51277b225b")
 	)
 	(junction
-		(at 230.505 17.78)
+		(at 238.125 19.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b34ecde7-b557-4593-9ea8-2b6af895837f")
 	)
 	(junction
-		(at 153.67 35.56)
+		(at 161.29 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b61adce8-223f-4627-8ae8-45427233a46a")
 	)
 	(junction
-		(at 271.78 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b90dd20f-52d5-4aa2-a1b0-1dcb620e08fc")
-	)
-	(junction
-		(at 46.99 101.6)
+		(at 54.61 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c2920e46-cf0a-4197-b5e3-8070fac0a556")
 	)
 	(junction
-		(at 221.615 59.69)
+		(at 229.235 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c76840b5-89c1-4417-a925-f5ade4b108c5")
 	)
 	(junction
-		(at 179.705 27.94)
+		(at 187.325 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d1ed3213-1754-40d3-962f-9761c285dbf7")
 	)
 	(junction
-		(at 39.37 35.56)
+		(at 46.99 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d50f3db6-c814-4523-be98-7088fce8d2ff")
 	)
 	(junction
-		(at 29.21 101.6)
+		(at 36.83 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d54b5143-d66b-47dd-b53a-b273d17ab7a5")
 	)
 	(junction
-		(at 115.57 35.56)
+		(at 123.19 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dafc9f37-9e6f-49e4-986c-82901f8ce1c0")
 	)
 	(junction
-		(at 69.85 35.56)
+		(at 254 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd0738a7-e403-4a9a-809d-838c7c6fb2fc")
+	)
+	(junction
+		(at 77.47 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef164791-f8aa-455b-8250-bf5358805510")
 	)
 	(junction
-		(at 216.535 44.45)
+		(at 224.155 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "efc2e6a5-8e78-4735-aa80-946871f1148b")
 	)
 	(junction
-		(at 20.32 69.85)
+		(at 27.94 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f485c9e3-a080-49d3-8111-faf9e4c98e56")
 	)
 	(junction
-		(at 85.09 25.4)
+		(at 92.71 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f4e771a3-aa7e-4735-804b-4f64c4db3d44")
 	)
 	(junction
-		(at 192.405 38.1)
+		(at 200.025 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f90bbc9f-5ff3-4c30-91c9-5fa33dfd0e55")
 	)
 	(polyline
 		(pts
-			(xy 183.515 29.21) (xy 241.3 29.21)
+			(xy 191.135 30.48) (xy 248.92 30.48)
 		)
 		(stroke
 			(width 0.381)
@@ -6671,7 +6659,7 @@
 	)
 	(wire
 		(pts
-			(xy 211.455 27.94) (xy 217.805 27.94)
+			(xy 219.075 29.21) (xy 225.425 29.21)
 		)
 		(stroke
 			(width 0.381)
@@ -6681,7 +6669,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 34.29) (xy 153.67 35.56)
+			(xy 161.29 35.56) (xy 161.29 36.83)
 		)
 		(stroke
 			(width 0.381)
@@ -6701,7 +6689,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 35.56) (xy 137.16 35.56)
+			(xy 123.19 36.83) (xy 144.78 36.83)
 		)
 		(stroke
 			(width 0.3)
@@ -6711,7 +6699,7 @@
 	)
 	(wire
 		(pts
-			(xy 230.505 36.83) (xy 230.505 38.1)
+			(xy 238.125 38.1) (xy 238.125 39.37)
 		)
 		(stroke
 			(width 0)
@@ -6721,7 +6709,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 119.38) (xy 29.21 119.38)
+			(xy 38.1 120.65) (xy 36.83 120.65)
 		)
 		(stroke
 			(width 0)
@@ -6731,7 +6719,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.705 27.94) (xy 179.705 35.56)
+			(xy 187.325 29.21) (xy 187.325 36.83)
 		)
 		(stroke
 			(width 0.254)
@@ -6751,7 +6739,7 @@
 	)
 	(wire
 		(pts
-			(xy 216.535 38.1) (xy 216.535 44.45)
+			(xy 224.155 39.37) (xy 224.155 45.72)
 		)
 		(stroke
 			(width 0.254)
@@ -6761,7 +6749,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 101.6) (xy 68.58 102.87)
+			(xy 76.2 102.87) (xy 76.2 104.14)
 		)
 		(stroke
 			(width 0)
@@ -6771,7 +6759,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 78.74) (xy 30.48 80.01)
+			(xy 38.1 80.01) (xy 38.1 81.28)
 		)
 		(stroke
 			(width 0)
@@ -6781,7 +6769,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 35.56) (xy 168.91 36.83)
+			(xy 176.53 36.83) (xy 176.53 38.1)
 		)
 		(stroke
 			(width 0.381)
@@ -6791,7 +6779,7 @@
 	)
 	(wire
 		(pts
-			(xy 230.505 17.78) (xy 211.455 17.78)
+			(xy 238.125 19.05) (xy 219.075 19.05)
 		)
 		(stroke
 			(width 0.381)
@@ -6801,7 +6789,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.815 27.94) (xy 168.91 27.94)
+			(xy 178.435 29.21) (xy 176.53 29.21)
 		)
 		(stroke
 			(width 0.254)
@@ -6811,7 +6799,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 101.6) (xy 30.48 101.6)
+			(xy 36.83 102.87) (xy 38.1 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -6821,7 +6809,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 27.94) (xy 246.38 17.78)
+			(xy 254 29.21) (xy 254 19.05)
 		)
 		(stroke
 			(width 0.381)
@@ -6841,7 +6829,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 100.33) (xy 20.32 101.6)
+			(xy 27.94 101.6) (xy 27.94 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -6851,7 +6839,7 @@
 	)
 	(wire
 		(pts
-			(xy 216.535 44.45) (xy 216.535 46.99)
+			(xy 224.155 45.72) (xy 224.155 48.26)
 		)
 		(stroke
 			(width 0.254)
@@ -6861,7 +6849,17 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 44.45) (xy 192.405 44.45)
+			(xy 254 17.78) (xy 254 19.05)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+		)
+		(uuid "2272bc7f-9788-4f7d-b6f6-1fff4aff1783")
+	)
+	(wire
+		(pts
+			(xy 203.2 45.72) (xy 200.025 45.72)
 		)
 		(stroke
 			(width 0)
@@ -6871,7 +6869,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 80.01) (xy 30.48 80.01)
+			(xy 27.94 81.28) (xy 38.1 81.28)
 		)
 		(stroke
 			(width 0.254)
@@ -6881,7 +6879,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 80.01) (xy 63.5 80.01)
+			(xy 73.66 71.12) (xy 71.12 71.12)
 		)
 		(stroke
 			(width 0.254)
@@ -6891,7 +6889,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 35.56) (xy 69.85 36.83)
+			(xy 77.47 36.83) (xy 77.47 38.1)
 		)
 		(stroke
 			(width 0)
@@ -6901,7 +6899,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 25.4) (xy 130.81 26.67)
+			(xy 138.43 26.67) (xy 138.43 27.94)
 		)
 		(stroke
 			(width 0)
@@ -6911,7 +6909,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 35.56) (xy 170.815 35.56)
+			(xy 176.53 36.83) (xy 178.435 36.83)
 		)
 		(stroke
 			(width 0.254)
@@ -6921,7 +6919,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 101.6) (xy 57.15 101.6)
+			(xy 63.5 102.87) (xy 64.77 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -6941,7 +6939,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.675 38.1) (xy 192.405 38.1)
+			(xy 201.295 39.37) (xy 200.025 39.37)
 		)
 		(stroke
 			(width 0.254)
@@ -6951,7 +6949,7 @@
 	)
 	(wire
 		(pts
-			(xy 192.405 36.83) (xy 192.405 38.1)
+			(xy 200.025 38.1) (xy 200.025 39.37)
 		)
 		(stroke
 			(width 0)
@@ -6961,7 +6959,7 @@
 	)
 	(wire
 		(pts
-			(xy 192.405 38.1) (xy 192.405 36.83)
+			(xy 200.025 39.37) (xy 200.025 38.1)
 		)
 		(stroke
 			(width 0.254)
@@ -6971,7 +6969,7 @@
 	)
 	(polyline
 		(pts
-			(xy 185.42 80.645) (xy 239.395 80.645)
+			(xy 193.04 81.915) (xy 247.015 81.915)
 		)
 		(stroke
 			(width 0.381)
@@ -6982,7 +6980,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 101.6) (xy 20.32 102.87)
+			(xy 27.94 102.87) (xy 27.94 104.14)
 		)
 		(stroke
 			(width 0)
@@ -6992,7 +6990,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 35.56) (xy 168.91 35.56)
+			(xy 175.26 36.83) (xy 176.53 36.83)
 		)
 		(stroke
 			(width 0.381)
@@ -7002,7 +7000,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 35.56) (xy 137.16 36.83)
+			(xy 144.78 36.83) (xy 144.78 38.1)
 		)
 		(stroke
 			(width 0)
@@ -7012,7 +7010,7 @@
 	)
 	(wire
 		(pts
-			(xy 230.505 38.1) (xy 230.505 44.45)
+			(xy 238.125 39.37) (xy 238.125 45.72)
 		)
 		(stroke
 			(width 0)
@@ -7022,7 +7020,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 69.85) (xy 63.5 69.85)
+			(xy 73.66 81.28) (xy 71.12 81.28)
 		)
 		(stroke
 			(width 0.254)
@@ -7032,7 +7030,7 @@
 	)
 	(wire
 		(pts
-			(xy 206.375 44.45) (xy 203.2 44.45)
+			(xy 213.995 45.72) (xy 210.82 45.72)
 		)
 		(stroke
 			(width 0)
@@ -7042,7 +7040,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 44.45) (xy 137.16 45.72)
+			(xy 144.78 45.72) (xy 144.78 46.99)
 		)
 		(stroke
 			(width 0)
@@ -7052,7 +7050,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 26.67) (xy 115.57 25.4)
+			(xy 123.19 27.94) (xy 123.19 26.67)
 		)
 		(stroke
 			(width 0)
@@ -7062,7 +7060,7 @@
 	)
 	(wire
 		(pts
-			(xy 221.615 59.69) (xy 222.885 59.69)
+			(xy 229.235 60.96) (xy 230.505 60.96)
 		)
 		(stroke
 			(width 0)
@@ -7082,7 +7080,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 100.33) (xy 101.6 101.6)
+			(xy 109.22 101.6) (xy 109.22 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -7092,7 +7090,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 35.56) (xy 144.145 35.56)
+			(xy 144.78 36.83) (xy 151.765 36.83)
 		)
 		(stroke
 			(width 0.3)
@@ -7102,7 +7100,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 25.4) (xy 130.81 25.4)
+			(xy 132.08 26.67) (xy 138.43 26.67)
 		)
 		(stroke
 			(width 0)
@@ -7112,7 +7110,17 @@
 	)
 	(wire
 		(pts
-			(xy 216.535 44.45) (xy 219.71 44.45)
+			(xy 270.51 20.32) (xy 271.78 20.32)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(uuid "3ecdb1c6-c2af-489e-9f8c-4f4229187d4c")
+	)
+	(wire
+		(pts
+			(xy 224.155 45.72) (xy 227.33 45.72)
 		)
 		(stroke
 			(width 0)
@@ -7122,7 +7130,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.295 59.69) (xy 202.565 59.69)
+			(xy 208.915 60.96) (xy 210.185 60.96)
 		)
 		(stroke
 			(width 0)
@@ -7132,7 +7140,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.705 27.94) (xy 193.675 27.94)
+			(xy 187.325 29.21) (xy 201.295 29.21)
 		)
 		(stroke
 			(width 0.254)
@@ -7152,7 +7160,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 25.4) (xy 54.61 25.4)
+			(xy 46.99 26.67) (xy 62.23 26.67)
 		)
 		(stroke
 			(width 0.3)
@@ -7162,7 +7170,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 101.6) (xy 29.21 101.6)
+			(xy 27.94 102.87) (xy 36.83 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -7172,7 +7180,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 116.84) (xy 45.72 116.84)
+			(xy 54.61 118.11) (xy 53.34 118.11)
 		)
 		(stroke
 			(width 0.254)
@@ -7192,7 +7200,7 @@
 	)
 	(wire
 		(pts
-			(xy 211.455 25.4) (xy 217.805 25.4)
+			(xy 219.075 26.67) (xy 225.425 26.67)
 		)
 		(stroke
 			(width 0.381)
@@ -7202,7 +7210,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 69.85) (xy 44.45 69.85)
+			(xy 48.26 71.12) (xy 52.07 71.12)
 		)
 		(stroke
 			(width 0.254)
@@ -7212,7 +7220,7 @@
 	)
 	(polyline
 		(pts
-			(xy 179.07 57.15) (xy 179.07 57.15)
+			(xy 186.69 58.42) (xy 186.69 58.42)
 		)
 		(stroke
 			(width 0)
@@ -7222,7 +7230,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 116.84) (xy 30.48 116.84)
+			(xy 36.83 118.11) (xy 38.1 118.11)
 		)
 		(stroke
 			(width 0)
@@ -7232,7 +7240,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 71.12) (xy 20.32 69.85)
+			(xy 27.94 72.39) (xy 27.94 71.12)
 		)
 		(stroke
 			(width 0)
@@ -7242,17 +7250,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 69.85) (xy 59.69 69.85)
-		)
-		(stroke
-			(width 0.254)
-			(type default)
-		)
-		(uuid "5d7e31af-733f-4cc2-be87-e9d614ad544e")
-	)
-	(wire
-		(pts
-			(xy 40.64 78.74) (xy 40.64 80.01)
+			(xy 48.26 80.01) (xy 48.26 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7272,7 +7270,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 45.72) (xy 26.67 45.72)
+			(xy 36.83 46.99) (xy 34.29 46.99)
 		)
 		(stroke
 			(width 0.3)
@@ -7282,7 +7280,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 119.38) (xy 46.99 120.65)
+			(xy 54.61 120.65) (xy 54.61 121.92)
 		)
 		(stroke
 			(width 0.254)
@@ -7292,7 +7290,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 45.72) (xy 153.67 46.99)
+			(xy 161.29 46.99) (xy 161.29 48.26)
 		)
 		(stroke
 			(width 0.254)
@@ -7302,7 +7300,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.295 60.96) (xy 201.295 59.69)
+			(xy 208.915 62.23) (xy 208.915 60.96)
 		)
 		(stroke
 			(width 0)
@@ -7312,7 +7310,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 34.29) (xy 124.46 45.72)
+			(xy 132.08 35.56) (xy 132.08 46.99)
 		)
 		(stroke
 			(width 0)
@@ -7322,7 +7320,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 35.56) (xy 69.85 35.56)
+			(xy 46.99 36.83) (xy 77.47 36.83)
 		)
 		(stroke
 			(width 0.3)
@@ -7342,7 +7340,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 114.3) (xy 30.48 114.3)
+			(xy 36.83 115.57) (xy 38.1 115.57)
 		)
 		(stroke
 			(width 0)
@@ -7352,7 +7350,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.145 35.56) (xy 144.145 36.83)
+			(xy 151.765 36.83) (xy 151.765 38.1)
 		)
 		(stroke
 			(width 0)
@@ -7362,7 +7360,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 101.6) (xy 29.21 102.87)
+			(xy 36.83 102.87) (xy 36.83 104.14)
 		)
 		(stroke
 			(width 0)
@@ -7382,7 +7380,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 45.72) (xy 39.37 44.45)
+			(xy 46.99 46.99) (xy 46.99 45.72)
 		)
 		(stroke
 			(width 0.3)
@@ -7392,7 +7390,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 45.72) (xy 26.67 45.72)
+			(xy 33.02 46.99) (xy 34.29 46.99)
 		)
 		(stroke
 			(width 0.3)
@@ -7402,7 +7400,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 25.4) (xy 54.61 26.67)
+			(xy 62.23 26.67) (xy 62.23 27.94)
 		)
 		(stroke
 			(width 0)
@@ -7412,7 +7410,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 110.49) (xy 92.71 106.68)
+			(xy 100.33 111.76) (xy 100.33 107.95)
 		)
 		(stroke
 			(width 0)
@@ -7422,7 +7420,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 110.49) (xy 46.99 111.76)
+			(xy 54.61 111.76) (xy 54.61 113.03)
 		)
 		(stroke
 			(width 0)
@@ -7432,7 +7430,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 34.29) (xy 130.81 45.72)
+			(xy 138.43 35.56) (xy 138.43 46.99)
 		)
 		(stroke
 			(width 0)
@@ -7442,7 +7440,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 101.6) (xy 48.26 101.6)
+			(xy 54.61 102.87) (xy 55.88 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -7452,7 +7450,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 110.49) (xy 29.21 114.3)
+			(xy 36.83 111.76) (xy 36.83 115.57)
 		)
 		(stroke
 			(width 0)
@@ -7462,7 +7460,7 @@
 	)
 	(polyline
 		(pts
-			(xy 183.515 82.55) (xy 241.3 82.55)
+			(xy 191.135 83.82) (xy 248.92 83.82)
 		)
 		(stroke
 			(width 0.381)
@@ -7473,7 +7471,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 114.3) (xy 57.15 114.3)
+			(xy 53.34 115.57) (xy 64.77 115.57)
 		)
 		(stroke
 			(width 0)
@@ -7483,7 +7481,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 34.29) (xy 115.57 35.56)
+			(xy 123.19 35.56) (xy 123.19 36.83)
 		)
 		(stroke
 			(width 0)
@@ -7493,7 +7491,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 35.56) (xy 39.37 36.83)
+			(xy 46.99 36.83) (xy 46.99 38.1)
 		)
 		(stroke
 			(width 0)
@@ -7503,17 +7501,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 17.78) (xy 271.78 17.78)
-		)
-		(stroke
-			(width 0.3)
-			(type default)
-		)
-		(uuid "833f36b0-2d33-4be2-91f2-48a1d504cded")
-	)
-	(wire
-		(pts
-			(xy 221.615 59.69) (xy 220.345 59.69)
+			(xy 229.235 60.96) (xy 227.965 60.96)
 		)
 		(stroke
 			(width 0)
@@ -7523,7 +7511,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 80.01) (xy 44.45 80.01)
+			(xy 48.26 81.28) (xy 52.07 81.28)
 		)
 		(stroke
 			(width 0.254)
@@ -7533,7 +7521,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 111.76) (xy 45.72 111.76)
+			(xy 54.61 113.03) (xy 53.34 113.03)
 		)
 		(stroke
 			(width 0)
@@ -7543,7 +7531,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 45.72) (xy 144.145 45.72)
+			(xy 144.78 46.99) (xy 151.765 46.99)
 		)
 		(stroke
 			(width 0)
@@ -7553,7 +7541,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.235 38.1) (xy 230.505 38.1)
+			(xy 236.855 39.37) (xy 238.125 39.37)
 		)
 		(stroke
 			(width 0.254)
@@ -7563,7 +7551,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 116.84) (xy 20.32 118.11)
+			(xy 27.94 118.11) (xy 27.94 119.38)
 		)
 		(stroke
 			(width 0)
@@ -7573,7 +7561,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 26.67) (xy 69.85 25.4)
+			(xy 77.47 27.94) (xy 77.47 26.67)
 		)
 		(stroke
 			(width 0)
@@ -7583,7 +7571,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 25.4) (xy 193.675 25.4)
+			(xy 175.26 26.67) (xy 201.295 26.67)
 		)
 		(stroke
 			(width 0.381)
@@ -7593,7 +7581,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 25.4) (xy 85.09 25.4)
+			(xy 77.47 26.67) (xy 92.71 26.67)
 		)
 		(stroke
 			(width 0.3)
@@ -7603,7 +7591,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 69.85) (xy 30.48 69.85)
+			(xy 48.26 71.12) (xy 38.1 71.12)
 		)
 		(stroke
 			(width 0.254)
@@ -7613,7 +7601,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 80.01) (xy 63.5 78.74)
+			(xy 71.12 71.12) (xy 71.12 72.39)
 		)
 		(stroke
 			(width 0)
@@ -7623,7 +7611,7 @@
 	)
 	(polyline
 		(pts
-			(xy 185.42 80.645) (xy 185.42 31.115)
+			(xy 193.04 81.915) (xy 193.04 32.385)
 		)
 		(stroke
 			(width 0.381)
@@ -7634,7 +7622,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.105 27.94) (xy 211.455 27.94)
+			(xy 212.725 29.21) (xy 219.075 29.21)
 		)
 		(stroke
 			(width 0.381)
@@ -7644,7 +7632,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 110.49) (xy 57.15 114.3)
+			(xy 64.77 111.76) (xy 64.77 115.57)
 		)
 		(stroke
 			(width 0)
@@ -7654,7 +7642,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 25.4) (xy 154.94 25.4)
+			(xy 161.29 26.67) (xy 162.56 26.67)
 		)
 		(stroke
 			(width 0.381)
@@ -7674,7 +7662,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 45.72) (xy 137.16 45.72)
+			(xy 138.43 46.99) (xy 144.78 46.99)
 		)
 		(stroke
 			(width 0)
@@ -7684,17 +7672,7 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 27.94) (xy 271.78 27.94)
-		)
-		(stroke
-			(width 0.3)
-			(type default)
-		)
-		(uuid "9c096a54-91ff-47db-8c06-671ee6c5c2f2")
-	)
-	(wire
-		(pts
-			(xy 124.46 45.72) (xy 130.81 45.72)
+			(xy 132.08 46.99) (xy 138.43 46.99)
 		)
 		(stroke
 			(width 0)
@@ -7704,7 +7682,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 35.56) (xy 39.37 35.56)
+			(xy 33.02 36.83) (xy 46.99 36.83)
 		)
 		(stroke
 			(width 0.3)
@@ -7714,7 +7692,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 25.4) (xy 124.46 25.4)
+			(xy 123.19 26.67) (xy 132.08 26.67)
 		)
 		(stroke
 			(width 0)
@@ -7724,7 +7702,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 34.29) (xy 39.37 35.56)
+			(xy 46.99 35.56) (xy 46.99 36.83)
 		)
 		(stroke
 			(width 0)
@@ -7734,7 +7712,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 25.4) (xy 124.46 26.67)
+			(xy 132.08 26.67) (xy 132.08 27.94)
 		)
 		(stroke
 			(width 0)
@@ -7744,7 +7722,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 45.72) (xy 36.83 45.72)
+			(xy 46.99 46.99) (xy 44.45 46.99)
 		)
 		(stroke
 			(width 0.3)
@@ -7754,7 +7732,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 27.94) (xy 168.91 35.56)
+			(xy 176.53 29.21) (xy 176.53 36.83)
 		)
 		(stroke
 			(width 0.254)
@@ -7764,7 +7742,7 @@
 	)
 	(polyline
 		(pts
-			(xy 241.3 29.21) (xy 241.3 82.55)
+			(xy 248.92 30.48) (xy 248.92 83.82)
 		)
 		(stroke
 			(width 0.381)
@@ -7775,7 +7753,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 71.12) (xy 63.5 69.85)
+			(xy 71.12 80.01) (xy 71.12 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7785,17 +7763,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 80.01) (xy 59.69 80.01)
-		)
-		(stroke
-			(width 0.254)
-			(type default)
-		)
-		(uuid "a33f1cc5-27c6-4212-bf07-39511bf73669")
-	)
-	(wire
-		(pts
-			(xy 206.375 44.45) (xy 206.375 46.99)
+			(xy 213.995 45.72) (xy 213.995 48.26)
 		)
 		(stroke
 			(width 0.254)
@@ -7805,7 +7773,7 @@
 	)
 	(wire
 		(pts
-			(xy 230.505 17.78) (xy 234.315 17.78)
+			(xy 238.125 19.05) (xy 241.935 19.05)
 		)
 		(stroke
 			(width 0.381)
@@ -7815,7 +7783,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 101.6) (xy 101.6 102.87)
+			(xy 109.22 102.87) (xy 109.22 104.14)
 		)
 		(stroke
 			(width 0)
@@ -7825,7 +7793,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 25.4) (xy 90.17 25.4)
+			(xy 92.71 26.67) (xy 97.79 26.67)
 		)
 		(stroke
 			(width 0.3)
@@ -7835,7 +7803,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 45.72) (xy 54.61 45.72)
+			(xy 46.99 46.99) (xy 62.23 46.99)
 		)
 		(stroke
 			(width 0.3)
@@ -7845,7 +7813,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 35.56) (xy 115.57 36.83)
+			(xy 123.19 36.83) (xy 123.19 38.1)
 		)
 		(stroke
 			(width 0)
@@ -7855,7 +7823,7 @@
 	)
 	(polyline
 		(pts
-			(xy 183.515 82.55) (xy 183.515 29.21)
+			(xy 191.135 83.82) (xy 191.135 30.48)
 		)
 		(stroke
 			(width 0.381)
@@ -7866,7 +7834,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 34.29) (xy 54.61 45.72)
+			(xy 62.23 35.56) (xy 62.23 46.99)
 		)
 		(stroke
 			(width 0.3)
@@ -7876,7 +7844,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 68.58) (xy 20.32 69.85)
+			(xy 27.94 69.85) (xy 27.94 71.12)
 		)
 		(stroke
 			(width 0.254)
@@ -7886,7 +7854,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 35.56) (xy 154.94 35.56)
+			(xy 161.29 36.83) (xy 162.56 36.83)
 		)
 		(stroke
 			(width 0.381)
@@ -7896,7 +7864,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.235 27.94) (xy 246.38 27.94)
+			(xy 236.855 29.21) (xy 254 29.21)
 		)
 		(stroke
 			(width 0.381)
@@ -7906,7 +7874,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 119.38) (xy 29.21 120.65)
+			(xy 36.83 120.65) (xy 36.83 121.92)
 		)
 		(stroke
 			(width 0)
@@ -7916,7 +7884,7 @@
 	)
 	(wire
 		(pts
-			(xy 221.615 60.96) (xy 221.615 59.69)
+			(xy 229.235 62.23) (xy 229.235 60.96)
 		)
 		(stroke
 			(width 0)
@@ -7926,7 +7894,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 25.4) (xy 130.81 25.4)
+			(xy 132.08 26.67) (xy 138.43 26.67)
 		)
 		(stroke
 			(width 0.3)
@@ -7936,7 +7904,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 25.4) (xy 124.46 25.4)
+			(xy 123.19 26.67) (xy 132.08 26.67)
 		)
 		(stroke
 			(width 0.3)
@@ -7946,7 +7914,7 @@
 	)
 	(wire
 		(pts
-			(xy 216.535 38.1) (xy 217.805 38.1)
+			(xy 224.155 39.37) (xy 225.425 39.37)
 		)
 		(stroke
 			(width 0.254)
@@ -7966,7 +7934,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.025 59.69) (xy 201.295 59.69)
+			(xy 207.645 60.96) (xy 208.915 60.96)
 		)
 		(stroke
 			(width 0)
@@ -7976,7 +7944,7 @@
 	)
 	(polyline
 		(pts
-			(xy 185.42 31.115) (xy 239.395 31.115)
+			(xy 193.04 32.385) (xy 247.015 32.385)
 		)
 		(stroke
 			(width 0.381)
@@ -7987,7 +7955,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 114.3) (xy 57.15 115.57)
+			(xy 64.77 115.57) (xy 64.77 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7997,7 +7965,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 119.38) (xy 45.72 119.38)
+			(xy 54.61 120.65) (xy 53.34 120.65)
 		)
 		(stroke
 			(width 0.254)
@@ -8007,7 +7975,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 24.13) (xy 153.67 25.4)
+			(xy 161.29 25.4) (xy 161.29 26.67)
 		)
 		(stroke
 			(width 0.381)
@@ -8017,7 +7985,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 35.56) (xy 69.85 35.56)
+			(xy 97.79 36.83) (xy 77.47 36.83)
 		)
 		(stroke
 			(width 0.3)
@@ -8027,7 +7995,7 @@
 	)
 	(wire
 		(pts
-			(xy 206.375 38.1) (xy 206.375 44.45)
+			(xy 213.995 39.37) (xy 213.995 45.72)
 		)
 		(stroke
 			(width 0.254)
@@ -8037,7 +8005,7 @@
 	)
 	(wire
 		(pts
-			(xy 211.455 17.78) (xy 211.455 25.4)
+			(xy 219.075 19.05) (xy 219.075 26.67)
 		)
 		(stroke
 			(width 0.381)
@@ -8047,7 +8015,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 25.4) (xy 115.57 25.4)
+			(xy 110.49 26.67) (xy 123.19 26.67)
 		)
 		(stroke
 			(width 0.3)
@@ -8057,7 +8025,17 @@
 	)
 	(wire
 		(pts
-			(xy 229.235 25.4) (xy 230.505 25.4)
+			(xy 67.31 71.12) (xy 71.12 71.12)
+		)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(uuid "bda65157-be97-432b-b21d-debb146ed93d")
+	)
+	(wire
+		(pts
+			(xy 236.855 26.67) (xy 238.125 26.67)
 		)
 		(stroke
 			(width 0.381)
@@ -8067,7 +8045,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 102.87) (xy 57.15 101.6)
+			(xy 64.77 104.14) (xy 64.77 102.87)
 		)
 		(stroke
 			(width 0)
@@ -8077,7 +8055,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.145 35.56) (xy 153.67 35.56)
+			(xy 151.765 36.83) (xy 161.29 36.83)
 		)
 		(stroke
 			(width 0.381)
@@ -8087,7 +8065,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 116.84) (xy 46.99 119.38)
+			(xy 54.61 118.11) (xy 54.61 120.65)
 		)
 		(stroke
 			(width 0.254)
@@ -8097,7 +8075,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 101.6) (xy 85.09 101.6)
+			(xy 86.36 102.87) (xy 92.71 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -8107,7 +8085,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 80.01) (xy 20.32 81.28)
+			(xy 27.94 81.28) (xy 27.94 82.55)
 		)
 		(stroke
 			(width 0.254)
@@ -8117,7 +8095,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 102.87) (xy 78.74 101.6)
+			(xy 86.36 104.14) (xy 86.36 102.87)
 		)
 		(stroke
 			(width 0)
@@ -8127,7 +8105,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 25.4) (xy 69.85 25.4)
+			(xy 62.23 26.67) (xy 77.47 26.67)
 		)
 		(stroke
 			(width 0.3)
@@ -8137,7 +8115,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 110.49) (xy 20.32 116.84)
+			(xy 27.94 111.76) (xy 27.94 118.11)
 		)
 		(stroke
 			(width 0)
@@ -8147,7 +8125,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 69.85) (xy 20.32 69.85)
+			(xy 38.1 71.12) (xy 27.94 71.12)
 		)
 		(stroke
 			(width 0.254)
@@ -8157,7 +8135,7 @@
 	)
 	(wire
 		(pts
-			(xy 178.435 27.94) (xy 179.705 27.94)
+			(xy 186.055 29.21) (xy 187.325 29.21)
 		)
 		(stroke
 			(width 0.254)
@@ -8167,7 +8145,17 @@
 	)
 	(wire
 		(pts
-			(xy 230.505 17.78) (xy 230.505 25.4)
+			(xy 270.51 30.48) (xy 271.78 30.48)
+		)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(uuid "c679d153-95e0-461f-915e-e724160cad9c")
+	)
+	(wire
+		(pts
+			(xy 238.125 19.05) (xy 238.125 26.67)
 		)
 		(stroke
 			(width 0.381)
@@ -8177,7 +8165,7 @@
 	)
 	(wire
 		(pts
-			(xy 192.405 38.1) (xy 192.405 44.45)
+			(xy 200.025 39.37) (xy 200.025 45.72)
 		)
 		(stroke
 			(width 0)
@@ -8187,7 +8175,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 100.33) (xy 78.74 101.6)
+			(xy 86.36 101.6) (xy 86.36 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -8197,7 +8185,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 101.6) (xy 46.99 102.87)
+			(xy 54.61 102.87) (xy 54.61 104.14)
 		)
 		(stroke
 			(width 0)
@@ -8207,7 +8195,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 101.6) (xy 101.6 101.6)
+			(xy 107.95 102.87) (xy 109.22 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -8217,7 +8205,7 @@
 	)
 	(wire
 		(pts
-			(xy 178.435 35.56) (xy 179.705 35.56)
+			(xy 186.055 36.83) (xy 187.325 36.83)
 		)
 		(stroke
 			(width 0.254)
@@ -8227,7 +8215,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 25.4) (xy 39.37 25.4)
+			(xy 33.02 26.67) (xy 46.99 26.67)
 		)
 		(stroke
 			(width 0.3)
@@ -8237,7 +8225,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 101.6) (xy 46.99 101.6)
+			(xy 53.34 102.87) (xy 54.61 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -8247,7 +8235,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 25.4) (xy 85.09 36.83)
+			(xy 92.71 26.67) (xy 92.71 38.1)
 		)
 		(stroke
 			(width 0)
@@ -8257,7 +8245,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 45.72) (xy 153.67 45.72)
+			(xy 165.1 46.99) (xy 161.29 46.99)
 		)
 		(stroke
 			(width 0.254)
@@ -8267,7 +8255,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 101.6) (xy 68.58 101.6)
+			(xy 64.77 102.87) (xy 76.2 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -8277,7 +8265,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 34.29) (xy 69.85 35.56)
+			(xy 77.47 35.56) (xy 77.47 36.83)
 		)
 		(stroke
 			(width 0)
@@ -8287,7 +8275,7 @@
 	)
 	(polyline
 		(pts
-			(xy 239.395 31.115) (xy 239.395 80.645)
+			(xy 247.015 32.385) (xy 247.015 81.915)
 		)
 		(stroke
 			(width 0.381)
@@ -8298,7 +8286,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 25.4) (xy 153.67 25.4)
+			(xy 138.43 26.67) (xy 161.29 26.67)
 		)
 		(stroke
 			(width 0.3)
@@ -8308,7 +8296,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.105 25.4) (xy 211.455 25.4)
+			(xy 212.725 26.67) (xy 219.075 26.67)
 		)
 		(stroke
 			(width 0.381)
@@ -8318,7 +8306,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 78.74) (xy 20.32 80.01)
+			(xy 27.94 80.01) (xy 27.94 81.28)
 		)
 		(stroke
 			(width 0)
@@ -8328,7 +8316,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 25.4) (xy 39.37 26.67)
+			(xy 46.99 26.67) (xy 46.99 27.94)
 		)
 		(stroke
 			(width 0)
@@ -8338,7 +8326,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 45.72) (xy 168.91 45.72)
+			(xy 172.72 46.99) (xy 176.53 46.99)
 		)
 		(stroke
 			(width 0.254)
@@ -8348,7 +8336,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 69.85) (xy 30.48 71.12)
+			(xy 38.1 71.12) (xy 38.1 72.39)
 		)
 		(stroke
 			(width 0)
@@ -8358,7 +8346,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 80.01) (xy 40.64 80.01)
+			(xy 38.1 81.28) (xy 48.26 81.28)
 		)
 		(stroke
 			(width 0.254)
@@ -8368,7 +8356,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 71.12) (xy 40.64 69.85)
+			(xy 48.26 72.39) (xy 48.26 71.12)
 		)
 		(stroke
 			(width 0)
@@ -8378,7 +8366,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 25.4) (xy 97.79 25.4)
+			(xy 110.49 26.67) (xy 105.41 26.67)
 		)
 		(stroke
 			(width 0.3)
@@ -8388,7 +8376,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 36.83) (xy 102.87 25.4)
+			(xy 110.49 38.1) (xy 110.49 26.67)
 		)
 		(stroke
 			(width 0)
@@ -8398,7 +8386,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 27.94) (xy 246.38 29.21)
+			(xy 254 29.21) (xy 254 30.48)
 		)
 		(stroke
 			(width 0.381)
@@ -8408,7 +8396,7 @@
 	)
 	(wire
 		(pts
-			(xy 230.505 36.83) (xy 230.505 38.1)
+			(xy 238.125 38.1) (xy 238.125 39.37)
 		)
 		(stroke
 			(width 0.254)
@@ -8418,7 +8406,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.145 44.45) (xy 144.145 45.72)
+			(xy 151.765 45.72) (xy 151.765 46.99)
 		)
 		(stroke
 			(width 0)
@@ -8428,7 +8416,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 46.99) (xy 26.67 45.72)
+			(xy 34.29 48.26) (xy 34.29 46.99)
 		)
 		(stroke
 			(width 0.3)
@@ -8438,7 +8426,7 @@
 	)
 	(wire
 		(pts
-			(xy 206.375 38.1) (xy 205.105 38.1)
+			(xy 213.995 39.37) (xy 212.725 39.37)
 		)
 		(stroke
 			(width 0.254)
@@ -8448,7 +8436,7 @@
 	)
 	(wire
 		(pts
-			(xy 211.455 25.4) (xy 211.455 27.94)
+			(xy 219.075 26.67) (xy 219.075 29.21)
 		)
 		(stroke
 			(width 0.381)
@@ -8458,7 +8446,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 101.6) (xy 78.74 101.6)
+			(xy 76.2 102.87) (xy 86.36 102.87)
 		)
 		(stroke
 			(width 0.254)
@@ -8478,17 +8466,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 16.51) (xy 271.78 17.78)
-		)
-		(stroke
-			(width 0.3)
-			(type default)
-		)
-		(uuid "ef1325c4-5ebe-4e05-908c-e0ad28e44a74")
-	)
-	(wire
-		(pts
-			(xy 21.59 116.84) (xy 20.32 116.84)
+			(xy 29.21 118.11) (xy 27.94 118.11)
 		)
 		(stroke
 			(width 0)
@@ -8498,13 +8476,23 @@
 	)
 	(wire
 		(pts
-			(xy 243.205 17.78) (xy 246.38 17.78)
+			(xy 250.825 19.05) (xy 254 19.05)
 		)
 		(stroke
 			(width 0.381)
 			(type default)
 		)
 		(uuid "f82e521f-c995-451d-b66d-7084c2cfb158")
+	)
+	(wire
+		(pts
+			(xy 67.31 81.28) (xy 71.12 81.28)
+		)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(uuid "f88bb926-63ed-44fa-931f-67bba9318e34")
 	)
 	(wire
 		(pts
@@ -8518,7 +8506,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 35.56) (xy 115.57 35.56)
+			(xy 105.41 36.83) (xy 123.19 36.83)
 		)
 		(stroke
 			(width 0.3)
@@ -8528,7 +8516,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 45.72) (xy 168.91 46.99)
+			(xy 176.53 46.99) (xy 176.53 48.26)
 		)
 		(stroke
 			(width 0.254)
@@ -8538,7 +8526,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 44.45) (xy 230.505 44.45)
+			(xy 234.95 45.72) (xy 238.125 45.72)
 		)
 		(stroke
 			(width 0)
@@ -8548,7 +8536,7 @@
 	)
 	(text_box "+24V_INV:\n+ Main volatge for low voltage side of the inverter."
 		(exclude_from_sim no)
-		(at 15.24 57.15 0)
+		(at 22.86 58.42 0)
 		(size 53.975 6.35)
 		(stroke
 			(width -0.0001)
@@ -8570,7 +8558,7 @@
 	)
 	(text_box "+5V_INV:\n+ Current sensor.\n+ Digital isolators."
 		(exclude_from_sim no)
-		(at 109.22 87.63 0)
+		(at 116.84 88.9 0)
 		(size 40.005 6.35)
 		(stroke
 			(width -0.0001)
@@ -8592,7 +8580,7 @@
 	)
 	(text_box "+16V_INV:\n+ Supply to logic side of the inverter."
 		(exclude_from_sim no)
-		(at 76.2 87.63 0)
+		(at 83.82 88.9 0)
 		(size 32.385 6.35)
 		(stroke
 			(width -0.0001)
@@ -8614,7 +8602,7 @@
 	)
 	(text_box "NOTE:\nShort curcuit 2 zeners if using 12V relay"
 		(exclude_from_sim no)
-		(at 186.055 72.39 0)
+		(at 193.675 73.66 0)
 		(size 31.115 8.89)
 		(stroke
 			(width -0.0001)
@@ -8636,7 +8624,7 @@
 	)
 	(text_box "Vo=Vfb*(1+Rt/Rb)\n=0.8V*(1+191/10)\n=16.08V"
 		(exclude_from_sim no)
-		(at 68.58 116.205 0)
+		(at 76.2 117.475 0)
 		(size 19.05 6.35)
 		(stroke
 			(width -0.0001)
@@ -8657,7 +8645,7 @@
 	)
 	(text "HIGH VOLTAGE ZONE"
 		(exclude_from_sim no)
-		(at 212.09 84.455 0)
+		(at 219.71 85.725 0)
 		(effects
 			(font
 				(face "Consolas")
@@ -8670,7 +8658,7 @@
 	)
 	(text "LOW VOLTAGE ZONE"
 		(exclude_from_sim no)
-		(at 212.09 79.375 0)
+		(at 219.71 80.645 0)
 		(effects
 			(font
 				(face "Consolas")
@@ -8683,7 +8671,7 @@
 	)
 	(hierarchical_label "PWR_RELAY"
 		(shape input)
-		(at 231.775 75.565 180)
+		(at 239.395 76.835 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8697,7 +8685,7 @@
 	)
 	(hierarchical_label "~{DEV_RELAY}"
 		(shape input)
-		(at 222.885 59.69 0)
+		(at 230.505 60.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8711,7 +8699,7 @@
 	)
 	(hierarchical_label "PWR_RELAY"
 		(shape input)
-		(at 200.025 59.69 180)
+		(at 207.645 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8725,7 +8713,7 @@
 	)
 	(hierarchical_label "~{DEV_RELAY}"
 		(shape input)
-		(at 231.775 78.105 180)
+		(at 239.395 79.375 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8739,7 +8727,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:SIL01")
-		(at 22.86 25.4 0)
+		(at 30.48 26.67 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8748,7 +8736,7 @@
 		(dnp no)
 		(uuid "00bf48c2-a6de-4498-8bb1-26b7f2940a15")
 		(property "Reference" "J2"
-			(at 17.78 24.13 0)
+			(at 25.4 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8757,7 +8745,7 @@
 			)
 		)
 		(property "Value" "LINE"
-			(at 17.78 26.035 0)
+			(at 25.4 27.305 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8765,7 +8753,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:QC-6.3"
-			(at 23.495 21.59 0)
+			(at 31.115 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8774,7 +8762,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 23.495 21.59 0)
+			(at 31.115 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8783,7 +8771,7 @@
 			)
 		)
 		(property "Description" "250 FASTON PCB TAB TPBR"
-			(at 23.495 21.59 0)
+			(at 31.115 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8792,7 +8780,7 @@
 			)
 		)
 		(property "MNP" "2376591-2"
-			(at 23.495 21.59 0)
+			(at 31.115 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8801,7 +8789,7 @@
 			)
 		)
 		(property "MFT" "TE"
-			(at 23.495 21.59 0)
+			(at 31.115 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8823,7 +8811,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:DIODE-ZEN")
-		(at 211.455 54.61 90)
+		(at 219.075 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8832,7 +8820,7 @@
 		(fields_autoplaced yes)
 		(uuid "04cdfe0a-de6f-43a9-be28-cf3488a46c55")
 		(property "Reference" "D4"
-			(at 219.075 49.5299 90)
+			(at 226.695 50.7999 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -8843,7 +8831,7 @@
 			)
 		)
 		(property "Value" "6V2"
-			(at 219.075 52.0699 90)
+			(at 226.695 53.3399 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -8854,7 +8842,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:SOD80C-LL34"
-			(at 211.455 54.61 0)
+			(at 219.075 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -8865,7 +8853,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 211.455 54.61 0)
+			(at 219.075 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -8876,7 +8864,7 @@
 			)
 		)
 		(property "Description" "DIODE ZENER 6.2V 500MW SOD80C"
-			(at 211.455 54.61 0)
+			(at 219.075 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -8887,7 +8875,7 @@
 			)
 		)
 		(property "MFT" "Diotec"
-			(at 211.455 54.61 0)
+			(at 219.075 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -8897,7 +8885,7 @@
 			)
 		)
 		(property "MNP" "ZMM6.2"
-			(at 211.455 54.61 0)
+			(at 219.075 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -8923,7 +8911,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 153.67 46.99 0)
+		(at 161.29 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8931,7 +8919,7 @@
 		(dnp no)
 		(uuid "081c673b-98b3-40cd-a576-09d0d80e2d72")
 		(property "Reference" "#PWR023"
-			(at 153.67 53.34 0)
+			(at 161.29 54.61 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -8943,7 +8931,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 153.67 50.8 0)
+			(at 161.29 52.07 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -8953,7 +8941,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 46.99 0)
+			(at 161.29 48.26 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -8964,7 +8952,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 46.99 0)
+			(at 161.29 48.26 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -8975,7 +8963,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 153.67 46.99 0)
+			(at 161.29 48.26 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -8999,7 +8987,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:+12V_MCU")
-		(at 192.405 36.83 0)
+		(at 200.025 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9007,7 +8995,7 @@
 		(dnp no)
 		(uuid "089f435e-fd60-451e-9606-f930e729d025")
 		(property "Reference" "#PWR026"
-			(at 192.405 40.64 0)
+			(at 200.025 41.91 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9019,7 +9007,7 @@
 			)
 		)
 		(property "Value" "+12V_MCU"
-			(at 191.77 33.02 0)
+			(at 199.39 34.29 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9029,7 +9017,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 192.405 36.83 0)
+			(at 200.025 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9040,7 +9028,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 192.405 36.83 0)
+			(at 200.025 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9051,7 +9039,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 192.405 36.83 0)
+			(at 200.025 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9075,7 +9063,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:FREE_HANGING_CONN")
-		(at 20.955 12.7 0)
+		(at 28.575 13.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9083,7 +9071,7 @@
 		(dnp no)
 		(uuid "0a866257-b6c7-435d-a6fc-f1a2349f6cc4")
 		(property "Reference" "J1"
-			(at 21.59 13.97 0)
+			(at 29.21 15.24 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9095,7 +9083,7 @@
 			)
 		)
 		(property "Value" "POWER CONN"
-			(at 16.51 14.605 90)
+			(at 24.13 15.875 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -9105,7 +9093,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 20.955 12.7 0)
+			(at 28.575 13.97 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9115,7 +9103,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 20.955 12.7 0)
+			(at 28.575 13.97 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9125,7 +9113,7 @@
 			)
 		)
 		(property "Description" "Snap-In IEC Plug Male 250V 15A Black With Case Fuse"
-			(at 20.955 12.7 0)
+			(at 28.575 13.97 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9135,7 +9123,7 @@
 			)
 		)
 		(property "MNP" "AC-01"
-			(at 20.955 12.7 0)
+			(at 28.575 13.97 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9145,7 +9133,7 @@
 			)
 		)
 		(property "MFT" "OEM"
-			(at 20.955 12.7 0)
+			(at 28.575 13.97 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9165,7 +9153,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_MCU")
-		(at 221.615 68.58 0)
+		(at 229.235 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9173,7 +9161,7 @@
 		(dnp no)
 		(uuid "0bed21e6-8f89-403c-b4c6-a2148f4bfdc9")
 		(property "Reference" "#PWR030"
-			(at 221.615 74.93 0)
+			(at 229.235 76.2 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9185,7 +9173,7 @@
 			)
 		)
 		(property "Value" "GND_MCU"
-			(at 221.615 72.39 0)
+			(at 229.235 73.66 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9195,7 +9183,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 221.615 68.58 0)
+			(at 229.235 69.85 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9206,7 +9194,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 221.615 68.58 0)
+			(at 229.235 69.85 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9217,7 +9205,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 221.615 68.58 0)
+			(at 229.235 69.85 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9241,7 +9229,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:DIODE-REC")
-		(at 222.885 40.005 0)
+		(at 230.505 41.275 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9249,7 +9237,7 @@
 		(dnp no)
 		(uuid "0d7086f6-2a46-4844-863b-2e18da904195")
 		(property "Reference" "D5"
-			(at 223.52 41.91 0)
+			(at 231.14 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9259,7 +9247,7 @@
 			)
 		)
 		(property "Value" "75V/150mA"
-			(at 222.885 46.99 0)
+			(at 230.505 48.26 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9269,7 +9257,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:SOD-323"
-			(at 222.885 40.005 0)
+			(at 230.505 41.275 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9280,7 +9268,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.885 40.005 0)
+			(at 230.505 41.275 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9291,7 +9279,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 75V 150MA SOD323"
-			(at 222.885 40.005 0)
+			(at 230.505 41.275 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9302,7 +9290,7 @@
 			)
 		)
 		(property "MNP" "1N4148WX-TP"
-			(at 223.52 49.53 0)
+			(at 231.14 50.8 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9313,7 +9301,7 @@
 			)
 		)
 		(property "MFT" "MCC"
-			(at 222.885 40.005 0)
+			(at 230.505 41.275 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9340,7 +9328,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:AC2")
-		(at 153.67 34.29 0)
+		(at 161.29 35.56 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9349,7 +9337,7 @@
 		(dnp no)
 		(uuid "0dc9b953-9a75-4372-852b-66737f56b9a3")
 		(property "Reference" "#PWR022"
-			(at 153.67 38.1 0)
+			(at 161.29 39.37 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9360,7 +9348,7 @@
 			)
 		)
 		(property "Value" "AC2"
-			(at 153.67 30.48 0)
+			(at 161.29 31.75 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9370,7 +9358,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 34.29 0)
+			(at 161.29 35.56 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9381,7 +9369,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 34.29 0)
+			(at 161.29 35.56 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9392,7 +9380,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 153.67 34.29 0)
+			(at 161.29 35.56 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9416,7 +9404,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:ELECCAP")
-		(at 81.28 105.41 270)
+		(at 88.9 106.68 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9424,7 +9412,7 @@
 		(dnp no)
 		(uuid "0f0eb561-2083-4c5b-b3de-65cda299d8d1")
 		(property "Reference" "C10"
-			(at 81.28 105.41 90)
+			(at 88.9 106.68 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -9435,7 +9423,7 @@
 			)
 		)
 		(property "Value" "470uF/25V"
-			(at 81.28 107.95 90)
+			(at 88.9 109.22 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -9446,7 +9434,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP_ELEC-10.3x10.3-DIA10"
-			(at 81.28 105.41 0)
+			(at 88.9 106.68 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9457,7 +9445,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 105.41 0)
+			(at 88.9 106.68 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9468,7 +9456,7 @@
 			)
 		)
 		(property "Description" "CAP ALUM POLY 470UF 20% 25V SMD"
-			(at 81.28 105.41 0)
+			(at 88.9 106.68 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9479,7 +9467,7 @@
 			)
 		)
 		(property "MNP" "A768MS477M1ELAE017"
-			(at 81.28 110.49 0)
+			(at 88.9 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9490,7 +9478,7 @@
 			)
 		)
 		(property "MFT" "KEMET"
-			(at 81.28 105.41 0)
+			(at 88.9 106.68 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9517,7 +9505,7 @@
 	)
 	(symbol
 		(lib_id "power:VDC")
-		(at 271.78 16.51 0)
+		(at 254 17.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9525,7 +9513,7 @@
 		(dnp no)
 		(uuid "185a2c7a-d37b-409b-96f0-bfe707fc196e")
 		(property "Reference" "#PWR038"
-			(at 271.78 19.05 0)
+			(at 254 20.32 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9536,7 +9524,7 @@
 			)
 		)
 		(property "Value" "VDC"
-			(at 271.78 13.335 0)
+			(at 254 13.97 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9546,7 +9534,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 271.78 16.51 0)
+			(at 254 17.78 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9557,7 +9545,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 271.78 16.51 0)
+			(at 254 17.78 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9568,7 +9556,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 271.78 16.51 0)
+			(at 254 17.78 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9592,7 +9580,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:FET_N-CH")
-		(at 220.345 54.61 0)
+		(at 227.965 55.88 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9601,7 +9589,7 @@
 		(dnp no)
 		(uuid "1ba693d5-54a0-4f14-8e28-b022b9b5472a")
 		(property "Reference" "Q2"
-			(at 220.98 53.975 0)
+			(at 228.6 55.245 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9611,7 +9599,7 @@
 			)
 		)
 		(property "Value" "20V/1A"
-			(at 222.25 56.515 0)
+			(at 229.87 57.785 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9621,7 +9609,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:SOT23"
-			(at 220.345 54.61 0)
+			(at 227.965 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9632,7 +9620,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.345 54.61 0)
+			(at 227.965 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9643,7 +9631,7 @@
 			)
 		)
 		(property "Description" "MOSFET N-CH 20 V 1.6A SOT-23-3"
-			(at 220.345 54.61 0)
+			(at 227.965 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9654,7 +9642,7 @@
 			)
 		)
 		(property "MNP" "DMN2310U-7"
-			(at 215.265 67.31 90)
+			(at 222.885 68.58 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -9665,7 +9653,7 @@
 			)
 		)
 		(property "MFT" "Diodes"
-			(at 220.345 54.61 0)
+			(at 227.965 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9695,8 +9683,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 66.04 76.2 270)
-		(mirror x)
+		(at 73.66 74.93 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9704,7 +9691,7 @@
 		(dnp no)
 		(uuid "1c11f729-e563-48ac-bfd0-ccf16eebd0a8")
 		(property "Reference" "C6"
-			(at 67.945 74.93 90)
+			(at 75.565 76.2 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -9715,7 +9702,7 @@
 			)
 		)
 		(property "Value" "100nF/400V"
-			(at 60.96 71.12 0)
+			(at 68.58 80.01 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9726,7 +9713,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP_FILM_6.0x12.0x12.5-P10"
-			(at 66.04 76.2 0)
+			(at 73.66 74.93 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9737,7 +9724,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 76.2 0)
+			(at 73.66 74.93 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9748,7 +9735,7 @@
 			)
 		)
 		(property "Description" "CAP FILM 0.1UF 20% 560VDC RADIAL"
-			(at 66.04 76.2 0)
+			(at 73.66 74.93 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9759,7 +9746,7 @@
 			)
 		)
 		(property "MNP" "BFC233824104"
-			(at 66.04 76.2 90)
+			(at 73.66 74.93 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -9770,7 +9757,7 @@
 			)
 		)
 		(property "MFT" "VISHAY"
-			(at 66.04 76.2 0)
+			(at 73.66 74.93 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9797,7 +9784,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RES")
-		(at 141.605 41.91 90)
+		(at 149.225 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9805,7 +9792,7 @@
 		(dnp no)
 		(uuid "1c563d87-16a6-4e55-af41-e307adce42ed")
 		(property "Reference" "R7"
-			(at 147.32 39.37 90)
+			(at 154.94 40.64 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -9815,7 +9802,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 146.685 41.91 90)
+			(at 154.305 43.18 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -9825,7 +9812,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:RES1206"
-			(at 141.605 41.91 0)
+			(at 149.225 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9836,7 +9823,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 141.605 41.91 0)
+			(at 149.225 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9847,7 +9834,7 @@
 			)
 		)
 		(property "Description" "RES 1M OHM 5% 1/4W 1206"
-			(at 141.605 41.91 0)
+			(at 149.225 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9858,7 +9845,7 @@
 			)
 		)
 		(property "MFT" "Walsin"
-			(at 141.605 41.91 0)
+			(at 149.225 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9869,7 +9856,7 @@
 			)
 		)
 		(property "MNP" "WR12X105 JTL"
-			(at 141.605 41.91 0)
+			(at 149.225 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9896,8 +9883,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:AC1")
-		(at 73.66 69.85 270)
-		(mirror x)
+		(at 81.28 81.28 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9905,7 +9891,7 @@
 		(dnp no)
 		(uuid "1d244592-2490-4654-9984-46954d061fc6")
 		(property "Reference" "#PWR011"
-			(at 69.85 69.85 0)
+			(at 77.47 81.28 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9916,7 +9902,7 @@
 			)
 		)
 		(property "Value" "AC1"
-			(at 78.74 69.85 90)
+			(at 86.36 81.28 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -9926,7 +9912,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 73.66 69.85 0)
+			(at 81.28 81.28 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9937,7 +9923,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 69.85 0)
+			(at 81.28 81.28 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9948,7 +9934,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.66 69.85 0)
+			(at 81.28 81.28 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9972,7 +9958,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 24.13 114.3 0)
+		(at 31.75 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9980,7 +9966,7 @@
 		(dnp no)
 		(uuid "1db23e44-2fd1-489a-94ac-654b8dd9703c")
 		(property "Reference" "C3"
-			(at 25.4 113.665 0)
+			(at 33.02 114.935 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -9990,7 +9976,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 25.4 119.38 0)
+			(at 33.02 120.65 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10000,7 +9986,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP0603"
-			(at 24.13 114.3 0)
+			(at 31.75 115.57 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10011,7 +9997,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 24.13 114.3 0)
+			(at 31.75 115.57 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10022,7 +10008,7 @@
 			)
 		)
 		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
-			(at 24.13 114.3 0)
+			(at 31.75 115.57 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10033,7 +10019,7 @@
 			)
 		)
 		(property "MFT" "Samsung"
-			(at 24.13 114.3 0)
+			(at 31.75 115.57 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10044,7 +10030,7 @@
 			)
 		)
 		(property "MNP" "CL10A106MQ8NNNC"
-			(at 24.13 114.3 0)
+			(at 31.75 115.57 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10071,7 +10057,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GDT")
-		(at 31.75 40.64 0)
+		(at 39.37 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10079,7 +10065,7 @@
 		(dnp no)
 		(uuid "1e8e456a-d449-407b-981a-bb0c4762399f")
 		(property "Reference" "G1"
-			(at 33.02 43.18 0)
+			(at 40.64 44.45 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10089,7 +10075,7 @@
 			)
 		)
 		(property "Value" "300V"
-			(at 33.02 48.26 0)
+			(at 40.64 49.53 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10099,7 +10085,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:GDT1812_3532"
-			(at 31.75 40.64 0)
+			(at 39.37 41.91 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10110,7 +10096,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 40.64 0)
+			(at 39.37 41.91 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10121,7 +10107,7 @@
 			)
 		)
 		(property "Description" "GDT SMD 4532, 300V30% 2KA, REEL"
-			(at 31.75 40.64 0)
+			(at 39.37 41.91 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10132,7 +10118,7 @@
 			)
 		)
 		(property "MNP" "4532-301-LF"
-			(at 34.29 48.26 0)
+			(at 41.91 49.53 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10143,7 +10129,7 @@
 			)
 		)
 		(property "MFT" "YAGEO"
-			(at 31.75 40.64 0)
+			(at 39.37 41.91 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10170,7 +10156,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:AC-DC")
-		(at 57.15 65.405 0)
+		(at 64.77 66.675 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10179,7 +10165,7 @@
 		(dnp no)
 		(uuid "1fc1fda7-eea3-4597-a418-39408a5d76cf")
 		(property "Reference" "MD1"
-			(at 52.07 64.77 0)
+			(at 59.69 66.04 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10189,7 +10175,7 @@
 			)
 		)
 		(property "Value" "24V±2%/3W"
-			(at 52.07 67.31 0)
+			(at 59.69 68.58 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10199,7 +10185,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:HLK-PMxx"
-			(at 57.15 65.405 0)
+			(at 64.77 66.675 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10210,7 +10196,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 65.405 0)
+			(at 64.77 66.675 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10221,7 +10207,7 @@
 			)
 		)
 		(property "Description" "ENCLOSED AC DC CONVERTER 24V 3W"
-			(at 57.15 65.405 0)
+			(at 64.77 66.675 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10232,7 +10218,7 @@
 			)
 		)
 		(property "MNP" "HLK-PM24"
-			(at 52.07 67.31 0)
+			(at 59.69 68.58 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10243,7 +10229,7 @@
 			)
 		)
 		(property "MFT" "Hi-Link"
-			(at 57.15 65.405 0)
+			(at 64.77 66.675 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10276,7 +10262,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RES")
-		(at 175.895 33.02 0)
+		(at 183.515 34.29 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10285,7 +10271,7 @@
 		(dnp no)
 		(uuid "20c06e7f-edd5-4bb7-9800-f1c0d6e1b514")
 		(property "Reference" "R9"
-			(at 172.72 38.1 0)
+			(at 180.34 39.37 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10295,7 +10281,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 177.165 38.1 0)
+			(at 184.785 39.37 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10305,7 +10291,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:RES1206"
-			(at 175.895 33.02 0)
+			(at 183.515 34.29 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10316,7 +10302,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.895 33.02 0)
+			(at 183.515 34.29 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10327,7 +10313,7 @@
 			)
 		)
 		(property "Description" "RES 1M OHM 5% 1/4W 1206"
-			(at 175.895 33.02 0)
+			(at 183.515 34.29 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10338,7 +10324,7 @@
 			)
 		)
 		(property "MFT" "Walsin"
-			(at 175.895 33.02 0)
+			(at 183.515 34.29 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10349,7 +10335,7 @@
 			)
 		)
 		(property "MNP" "WR12X105 JTL"
-			(at 175.895 33.02 0)
+			(at 183.515 34.29 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10376,7 +10362,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 20.32 118.11 0)
+		(at 27.94 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10384,7 +10370,7 @@
 		(dnp no)
 		(uuid "2119f3e5-73c8-4a94-b4e3-6015e1ea19e1")
 		(property "Reference" "#PWR04"
-			(at 20.32 124.46 0)
+			(at 27.94 125.73 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10396,7 +10382,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 20.32 121.92 0)
+			(at 27.94 123.19 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10406,7 +10392,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 20.32 118.11 0)
+			(at 27.94 119.38 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10417,7 +10403,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 20.32 118.11 0)
+			(at 27.94 119.38 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10428,7 +10414,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 20.32 118.11 0)
+			(at 27.94 119.38 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10452,7 +10438,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 100.33 39.37 90)
+		(at 107.95 40.64 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10461,7 +10447,7 @@
 		(dnp no)
 		(uuid "250e27cd-00ce-4bfa-9773-02c6e1824585")
 		(property "Reference" "C13"
-			(at 99.06 38.1 90)
+			(at 106.68 39.37 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -10471,7 +10457,7 @@
 			)
 		)
 		(property "Value" "100pF/2kV"
-			(at 96.52 40.64 90)
+			(at 104.14 41.91 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -10481,7 +10467,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP1206"
-			(at 100.33 39.37 0)
+			(at 107.95 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10492,7 +10478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 39.37 0)
+			(at 107.95 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10503,7 +10489,7 @@
 			)
 		)
 		(property "Description" "CAP CER 100PF 2000V X7R 1206"
-			(at 100.33 39.37 0)
+			(at 107.95 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10514,7 +10500,7 @@
 			)
 		)
 		(property "MNP" "885342208022"
-			(at 95.25 43.18 90)
+			(at 102.87 44.45 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -10525,7 +10511,7 @@
 			)
 		)
 		(property "MFT" "WE"
-			(at 100.33 39.37 0)
+			(at 107.95 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10552,7 +10538,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CHASSIS")
-		(at 69.85 44.45 0)
+		(at 77.47 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10560,7 +10546,7 @@
 		(dnp no)
 		(uuid "25811b67-6fd1-4646-9883-cba9257781b5")
 		(property "Reference" "#PWR010"
-			(at 69.85 42.545 0)
+			(at 77.47 43.815 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10572,7 +10558,7 @@
 			)
 		)
 		(property "Value" "CHASSIS"
-			(at 69.85 48.26 0)
+			(at 77.47 49.53 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10582,7 +10568,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 44.45 0)
+			(at 77.47 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10593,7 +10579,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 44.45 0)
+			(at 77.47 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10604,7 +10590,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 44.45 0)
+			(at 77.47 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10628,7 +10614,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 66.04 107.95 90)
+		(at 73.66 109.22 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10636,7 +10622,7 @@
 		(dnp no)
 		(uuid "26353679-deca-4a9f-93e4-7e57f484bb3a")
 		(property "Reference" "C7"
-			(at 71.12 105.4099 90)
+			(at 78.74 106.6799 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -10647,7 +10633,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 69.85 107.95 90)
+			(at 77.47 109.22 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -10658,7 +10644,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP0603"
-			(at 66.04 107.95 0)
+			(at 73.66 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10669,7 +10655,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 107.95 0)
+			(at 73.66 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10680,7 +10666,7 @@
 			)
 		)
 		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
-			(at 66.04 107.95 0)
+			(at 73.66 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10691,7 +10677,7 @@
 			)
 		)
 		(property "MNP" "CL10B104KB8NNNC"
-			(at 66.04 107.95 90)
+			(at 73.66 109.22 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -10702,7 +10688,7 @@
 			)
 		)
 		(property "MFT" "Samsung"
-			(at 66.04 107.95 0)
+			(at 73.66 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10729,7 +10715,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:+5V_INV")
-		(at 231.775 85.725 90)
+		(at 239.395 86.995 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10738,7 +10724,7 @@
 		(dnp no)
 		(uuid "2a966e9e-7f44-4fee-a7d8-e690d97e6c10")
 		(property "Reference" "#PWR032"
-			(at 235.585 85.725 0)
+			(at 243.205 86.995 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10750,7 +10736,7 @@
 			)
 		)
 		(property "Value" "+5V_INV"
-			(at 225.425 85.725 90)
+			(at 233.045 86.995 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -10760,7 +10746,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 231.775 85.725 0)
+			(at 239.395 86.995 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10771,7 +10757,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.775 85.725 0)
+			(at 239.395 86.995 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10782,7 +10768,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 231.775 85.725 0)
+			(at 239.395 86.995 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10806,7 +10792,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CHASSIS")
-		(at 26.67 46.99 0)
+		(at 34.29 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10814,7 +10800,7 @@
 		(dnp no)
 		(uuid "2c2867a1-e5b0-49f0-82a3-538a7ed881a2")
 		(property "Reference" "#PWR05"
-			(at 26.67 45.085 0)
+			(at 34.29 46.355 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10826,7 +10812,7 @@
 			)
 		)
 		(property "Value" "CHASSIS"
-			(at 26.67 50.8 0)
+			(at 34.29 52.07 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10836,7 +10822,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 46.99 0)
+			(at 34.29 48.26 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10847,7 +10833,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 46.99 0)
+			(at 34.29 48.26 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10858,7 +10844,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 26.67 46.99 0)
+			(at 34.29 48.26 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10882,7 +10868,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 33.02 76.2 270)
+		(at 40.64 77.47 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10891,7 +10877,7 @@
 		(dnp no)
 		(uuid "2c7ae511-18e1-4e80-a47d-308299e24fec")
 		(property "Reference" "C4"
-			(at 27.94 73.6599 90)
+			(at 35.56 74.9299 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -10902,7 +10888,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 28.575 76.2 90)
+			(at 36.195 77.47 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -10913,7 +10899,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP0603"
-			(at 33.02 76.2 0)
+			(at 40.64 77.47 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10924,7 +10910,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 76.2 0)
+			(at 40.64 77.47 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10935,7 +10921,7 @@
 			)
 		)
 		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
-			(at 33.02 76.2 0)
+			(at 40.64 77.47 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10946,7 +10932,7 @@
 			)
 		)
 		(property "MNP" "CL10B104KB8NNNC"
-			(at 33.02 76.2 90)
+			(at 40.64 77.47 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -10957,7 +10943,7 @@
 			)
 		)
 		(property "MFT" "Samsung"
-			(at 33.02 76.2 0)
+			(at 40.64 77.47 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -10984,7 +10970,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:+16V_INV")
-		(at 231.775 90.805 90)
+		(at 239.395 92.075 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10993,7 +10979,7 @@
 		(dnp no)
 		(uuid "2eb9e8c8-6467-446a-9773-6e05d82cd0be")
 		(property "Reference" "#PWR034"
-			(at 235.585 90.805 0)
+			(at 243.205 92.075 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11005,7 +10991,7 @@
 			)
 		)
 		(property "Value" "+16V_INV"
-			(at 225.425 90.805 90)
+			(at 233.045 92.075 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -11015,7 +11001,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 231.775 90.805 0)
+			(at 239.395 92.075 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11026,7 +11012,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.775 90.805 0)
+			(at 239.395 92.075 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11037,7 +11023,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 231.775 90.805 0)
+			(at 239.395 92.075 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11061,7 +11047,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 113.03 39.37 90)
+		(at 120.65 40.64 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11070,7 +11056,7 @@
 		(dnp no)
 		(uuid "357df123-556e-478f-a63c-07a8bfa99b33")
 		(property "Reference" "C15"
-			(at 111.76 38.1 90)
+			(at 119.38 39.37 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -11080,7 +11066,7 @@
 			)
 		)
 		(property "Value" "100pF/2kV"
-			(at 109.22 40.64 90)
+			(at 116.84 41.91 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -11090,7 +11076,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP1206"
-			(at 113.03 39.37 0)
+			(at 120.65 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11101,7 +11087,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 39.37 0)
+			(at 120.65 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11112,7 +11098,7 @@
 			)
 		)
 		(property "Description" "CAP CER 100PF 2000V X7R 1206"
-			(at 113.03 39.37 0)
+			(at 120.65 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11123,7 +11109,7 @@
 			)
 		)
 		(property "MNP" "885342208022"
-			(at 107.95 43.18 90)
+			(at 115.57 44.45 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -11134,7 +11120,7 @@
 			)
 		)
 		(property "MFT" "WE"
-			(at 113.03 39.37 0)
+			(at 120.65 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11161,7 +11147,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 82.55 39.37 90)
+		(at 90.17 40.64 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11170,7 +11156,7 @@
 		(dnp no)
 		(uuid "372ea624-d8e3-48e1-944a-c241f3e6952d")
 		(property "Reference" "C11"
-			(at 81.28 38.1 90)
+			(at 88.9 39.37 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -11180,7 +11166,7 @@
 			)
 		)
 		(property "Value" "100pF/2kV"
-			(at 78.74 40.64 90)
+			(at 86.36 41.91 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -11190,7 +11176,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP1206"
-			(at 82.55 39.37 0)
+			(at 90.17 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11201,7 +11187,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 39.37 0)
+			(at 90.17 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11212,7 +11198,7 @@
 			)
 		)
 		(property "Description" "CAP CER 100PF 2000V X7R 1206"
-			(at 82.55 39.37 0)
+			(at 90.17 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11223,7 +11209,7 @@
 			)
 		)
 		(property "MNP" "885342208022"
-			(at 77.47 43.18 90)
+			(at 85.09 44.45 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -11234,7 +11220,7 @@
 			)
 		)
 		(property "MFT" "WE"
-			(at 82.55 39.37 0)
+			(at 90.17 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11261,7 +11247,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:IND")
-		(at 50.8 99.06 0)
+		(at 58.42 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11269,7 +11255,7 @@
 		(dnp no)
 		(uuid "383d82b8-133d-4fc0-9844-e4bdd9ad7b40")
 		(property "Reference" "L1"
-			(at 52.07 98.425 0)
+			(at 59.69 99.695 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11279,7 +11265,7 @@
 			)
 		)
 		(property "Value" "68uH/1A"
-			(at 52.07 102.87 0)
+			(at 59.69 104.14 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11289,7 +11275,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:IND-8D43-8045"
-			(at 50.8 99.06 0)
+			(at 58.42 100.33 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11300,7 +11286,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 99.06 0)
+			(at 58.42 100.33 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11311,7 +11297,7 @@
 			)
 		)
 		(property "Description" "FIXED IND 68UH 1.2A 192 MOHM SMD"
-			(at 50.8 99.06 0)
+			(at 58.42 100.33 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11322,7 +11308,7 @@
 			)
 		)
 		(property "MNP" "SRU8043-680Y"
-			(at 55.88 99.06 0)
+			(at 63.5 100.33 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11333,7 +11319,7 @@
 			)
 		)
 		(property "MFT" "Bourns"
-			(at 50.8 99.06 0)
+			(at 58.42 100.33 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11360,7 +11346,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_MCU")
-		(at 216.535 62.23 0)
+		(at 224.155 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11368,7 +11354,7 @@
 		(dnp no)
 		(uuid "39f8c513-a40d-470e-9b70-cac2adf40798")
 		(property "Reference" "#PWR029"
-			(at 216.535 68.58 0)
+			(at 224.155 69.85 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11380,7 +11366,7 @@
 			)
 		)
 		(property "Value" "GND_MCU"
-			(at 216.535 66.04 0)
+			(at 224.155 67.31 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11390,7 +11376,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 216.535 62.23 0)
+			(at 224.155 63.5 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11401,7 +11387,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 216.535 62.23 0)
+			(at 224.155 63.5 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11412,7 +11398,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 216.535 62.23 0)
+			(at 224.155 63.5 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11436,7 +11422,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:PGND")
-		(at 168.91 46.99 0)
+		(at 176.53 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11444,7 +11430,7 @@
 		(dnp no)
 		(uuid "3a9a8307-c227-47ea-ac8e-1d19d81da95b")
 		(property "Reference" "#PWR025"
-			(at 168.91 52.07 0)
+			(at 176.53 53.34 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11456,7 +11442,7 @@
 			)
 		)
 		(property "Value" "PGND"
-			(at 168.91 50.165 0)
+			(at 176.53 51.435 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11466,7 +11452,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 46.99 0)
+			(at 176.53 48.26 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11477,7 +11463,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 46.99 0)
+			(at 176.53 48.26 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11488,7 +11474,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 168.91 46.99 0)
+			(at 176.53 48.26 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11512,7 +11498,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 92.71 110.49 0)
+		(at 100.33 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11520,7 +11506,7 @@
 		(dnp no)
 		(uuid "3c8d1df5-2c82-4afe-b90e-ee8d50889ea1")
 		(property "Reference" "#PWR016"
-			(at 92.71 116.84 0)
+			(at 100.33 118.11 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11532,7 +11518,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 92.71 114.3 0)
+			(at 100.33 115.57 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11542,7 +11528,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 92.71 110.49 0)
+			(at 100.33 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11553,7 +11539,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.71 110.49 0)
+			(at 100.33 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11564,7 +11550,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 92.71 110.49 0)
+			(at 100.33 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11588,7 +11574,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 67.31 31.75 90)
+		(at 74.93 33.02 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11596,7 +11582,7 @@
 		(dnp no)
 		(uuid "3cab0826-86a4-4c5d-8f6e-0ffa4a30a115")
 		(property "Reference" "C8"
-			(at 72.39 29.2099 90)
+			(at 80.01 30.4799 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -11607,7 +11593,7 @@
 			)
 		)
 		(property "Value" "1uF/400V"
-			(at 72.39 31.7499 90)
+			(at 80.01 33.0199 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -11618,7 +11604,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:ECWFE2W105"
-			(at 67.31 31.75 0)
+			(at 74.93 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11629,7 +11615,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 31.75 0)
+			(at 74.93 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11640,7 +11626,7 @@
 			)
 		)
 		(property "Description" "CAP FILM 1UF 10% 450VDC RADIAL"
-			(at 67.31 31.75 0)
+			(at 74.93 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11651,7 +11637,7 @@
 			)
 		)
 		(property "MNP" "ECW-FE2W105K\n"
-			(at 77.47 34.29 90)
+			(at 85.09 35.56 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -11662,7 +11648,7 @@
 			)
 		)
 		(property "MFT" "Panasonic"
-			(at 67.31 31.75 0)
+			(at 74.93 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11689,7 +11675,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 231.775 88.265 270)
+		(at 239.395 89.535 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11698,7 +11684,7 @@
 		(dnp no)
 		(uuid "3f2b026e-35f2-44d7-a3e3-52315f08a433")
 		(property "Reference" "#PWR033"
-			(at 225.425 88.265 0)
+			(at 233.045 89.535 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11710,7 +11696,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 226.06 88.265 90)
+			(at 233.68 89.535 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -11720,7 +11706,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 231.775 88.265 0)
+			(at 239.395 89.535 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11731,7 +11717,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.775 88.265 0)
+			(at 239.395 89.535 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11742,7 +11728,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 231.775 88.265 0)
+			(at 239.395 89.535 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11766,7 +11752,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CHASSIS")
-		(at 85.09 44.45 0)
+		(at 92.71 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11774,7 +11760,7 @@
 		(dnp no)
 		(uuid "4000b515-81d0-4c16-bb47-154a721b5bad")
 		(property "Reference" "#PWR015"
-			(at 85.09 42.545 0)
+			(at 92.71 43.815 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11786,7 +11772,7 @@
 			)
 		)
 		(property "Value" "CHASSIS"
-			(at 85.09 48.26 0)
+			(at 92.71 49.53 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11796,7 +11782,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 44.45 0)
+			(at 92.71 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11807,7 +11793,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 44.45 0)
+			(at 92.71 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11818,7 +11804,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 44.45 0)
+			(at 92.71 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11842,7 +11828,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:PGND")
-		(at 270.51 27.94 270)
+		(at 270.51 20.32 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11851,7 +11837,7 @@
 		(dnp no)
 		(uuid "42e04cd3-abbf-4c13-ae03-3d2e3db62ab2")
 		(property "Reference" "#PWR037"
-			(at 265.43 27.94 0)
+			(at 265.43 20.32 0)
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -11861,16 +11847,16 @@
 			)
 		)
 		(property "Value" "PGND"
-			(at 266.065 27.94 90)
+			(at 266.065 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
-					(bold yes)
+					(thickness 0.1588)
 				)
 			)
 		)
 		(property "Footprint" ""
-			(at 270.51 27.94 0)
+			(at 270.51 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11879,7 +11865,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 27.94 0)
+			(at 270.51 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11888,7 +11874,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 27.94 0)
+			(at 270.51 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11910,7 +11896,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:+5V_INV")
-		(at 101.6 100.33 0)
+		(at 109.22 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11918,7 +11904,7 @@
 		(dnp no)
 		(uuid "43f56f8b-bd43-44d7-ad36-052227ce9472")
 		(property "Reference" "#PWR017"
-			(at 101.6 104.14 0)
+			(at 109.22 105.41 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11930,7 +11916,7 @@
 			)
 		)
 		(property "Value" "+5V_INV"
-			(at 101.6 96.52 0)
+			(at 109.22 97.79 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11940,7 +11926,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 100.33 0)
+			(at 109.22 101.6 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11951,7 +11937,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 100.33 0)
+			(at 109.22 101.6 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11962,7 +11948,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 101.6 100.33 0)
+			(at 109.22 101.6 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -11986,7 +11972,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:MCP16311-TDFN")
-		(at 38.1 97.79 0)
+		(at 45.72 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11994,7 +11980,7 @@
 		(dnp no)
 		(uuid "4541bdac-8f57-485a-870e-aeb7681fa7a1")
 		(property "Reference" "U1"
-			(at 38.1 96.52 0)
+			(at 45.72 97.79 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12004,7 +11990,7 @@
 			)
 		)
 		(property "Value" "SMPS 16V±2%/0.6A"
-			(at 38.1 99.06 0)
+			(at 45.72 100.33 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12014,7 +12000,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:TDFN8_2x3_MCHP"
-			(at 34.29 97.79 0)
+			(at 41.91 99.06 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12025,7 +12011,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 97.79 0)
+			(at 41.91 99.06 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12036,7 +12022,7 @@
 			)
 		)
 		(property "Description" "IC REG BUCK ADJ 1A 8TDFN"
-			(at 34.29 97.79 0)
+			(at 41.91 99.06 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12047,7 +12033,7 @@
 			)
 		)
 		(property "MNP" "MCP16311T-E/MNY"
-			(at 38.1 97.79 0)
+			(at 45.72 99.06 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12058,7 +12044,7 @@
 			)
 		)
 		(property "MFT" "Microchip"
-			(at 38.1 97.79 0)
+			(at 45.72 99.06 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12106,7 +12092,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CK_Choke_2")
-		(at 92.075 21.59 0)
+		(at 99.695 22.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -12114,7 +12100,7 @@
 		(dnp no)
 		(uuid "46db4ef4-3ede-4f53-8ee0-fc4e1013eb6e")
 		(property "Reference" "FT2"
-			(at 93.98 20.955 0)
+			(at 101.6 22.225 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12124,7 +12110,7 @@
 			)
 		)
 		(property "Value" "5mH/2.5A"
-			(at 93.98 22.86 0)
+			(at 101.6 24.13 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12134,7 +12120,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:IND-SQ1010"
-			(at 92.075 21.59 0)
+			(at 99.695 22.86 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12145,7 +12131,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.075 21.59 0)
+			(at 99.695 22.86 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12156,7 +12142,7 @@
 			)
 		)
 		(property "Description" "FERRITE TOROID COIL 4.5mH/10A 40/24x15"
-			(at 92.075 21.59 0)
+			(at 99.695 22.86 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12167,7 +12153,7 @@
 			)
 		)
 		(property "MNP" "SQ1010-5MH"
-			(at 93.98 22.86 0)
+			(at 101.6 24.13 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12178,7 +12164,7 @@
 			)
 		)
 		(property "MFT" "OEM"
-			(at 92.075 21.59 0)
+			(at 99.695 22.86 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12211,7 +12197,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RES")
-		(at 54.61 107.95 90)
+		(at 62.23 109.22 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12219,7 +12205,7 @@
 		(dnp no)
 		(uuid "499be1ba-6c52-45b4-8543-d4895be2f9c3")
 		(property "Reference" "R2"
-			(at 60.96 105.41 90)
+			(at 68.58 106.68 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12229,7 +12215,7 @@
 			)
 		)
 		(property "Value" "191K, 1%"
-			(at 62.865 107.95 90)
+			(at 70.485 109.22 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12239,7 +12225,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:RES0603"
-			(at 54.61 107.95 0)
+			(at 62.23 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12250,7 +12236,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 107.95 0)
+			(at 62.23 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12261,7 +12247,7 @@
 			)
 		)
 		(property "Description" "RES 191K OHM 1% 1/10W 0603"
-			(at 54.61 107.95 0)
+			(at 62.23 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12272,7 +12258,7 @@
 			)
 		)
 		(property "MFT" "YAGEO"
-			(at 54.61 107.95 0)
+			(at 62.23 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12283,7 +12269,7 @@
 			)
 		)
 		(property "MNP" "RC0603FR-07191KL"
-			(at 54.61 107.95 0)
+			(at 62.23 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12310,7 +12296,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 231.775 93.345 270)
+		(at 239.395 94.615 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12319,7 +12305,7 @@
 		(dnp no)
 		(uuid "4c7910cc-84d5-4235-bfaa-e35e83a1c9d1")
 		(property "Reference" "#PWR035"
-			(at 225.425 93.345 0)
+			(at 233.045 94.615 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12331,7 +12317,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 226.06 93.345 90)
+			(at 233.68 94.615 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12341,7 +12327,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 231.775 93.345 0)
+			(at 239.395 94.615 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12352,7 +12338,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.775 93.345 0)
+			(at 239.395 94.615 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12363,7 +12349,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 231.775 93.345 0)
+			(at 239.395 94.615 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12387,7 +12373,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 99.06 107.95 90)
+		(at 106.68 109.22 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12395,7 +12381,7 @@
 		(dnp no)
 		(uuid "4ee5e0ae-db40-4411-b871-6760b045a14b")
 		(property "Reference" "C12"
-			(at 104.14 105.4099 90)
+			(at 111.76 106.6799 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12406,7 +12392,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 104.14 107.9499 90)
+			(at 111.76 109.2199 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12417,7 +12403,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP0603"
-			(at 99.06 107.95 0)
+			(at 106.68 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12428,7 +12414,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 107.95 0)
+			(at 106.68 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12439,7 +12425,7 @@
 			)
 		)
 		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
-			(at 99.06 107.95 0)
+			(at 106.68 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12450,7 +12436,7 @@
 			)
 		)
 		(property "MFT" "Samsung"
-			(at 99.06 107.95 0)
+			(at 106.68 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12461,7 +12447,7 @@
 			)
 		)
 		(property "MNP" "CL10A106MQ8NNNC"
-			(at 99.06 107.95 0)
+			(at 106.68 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12488,7 +12474,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:DIODE-ZEN")
-		(at 201.295 54.61 90)
+		(at 208.915 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12497,7 +12483,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f3ceee0-db8a-4300-b812-f6229fbeb5a0")
 		(property "Reference" "D3"
-			(at 208.915 49.5299 90)
+			(at 216.535 50.7999 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12508,7 +12494,7 @@
 			)
 		)
 		(property "Value" "6V2"
-			(at 208.915 52.0699 90)
+			(at 216.535 53.3399 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12519,7 +12505,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:SOD80C-LL34"
-			(at 201.295 54.61 0)
+			(at 208.915 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12530,7 +12516,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.295 54.61 0)
+			(at 208.915 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12541,7 +12527,7 @@
 			)
 		)
 		(property "Description" "DIODE ZENER 6.2V 500MW SOD80C"
-			(at 201.295 54.61 0)
+			(at 208.915 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12552,7 +12538,7 @@
 			)
 		)
 		(property "MFT" "Diotec"
-			(at 201.295 54.61 0)
+			(at 208.915 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12562,7 +12548,7 @@
 			)
 		)
 		(property "MNP" "ZMM6.2"
-			(at 201.295 54.61 0)
+			(at 208.915 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12589,7 +12575,7 @@
 	(symbol
 		(lib_name "RELAY-SPST-6P_1")
 		(lib_id "SAMPI:RELAY-SPST-6P")
-		(at 202.565 20.32 0)
+		(at 210.185 21.59 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12598,7 +12584,7 @@
 		(dnp no)
 		(uuid "4f7f2207-37c9-41d4-b59a-7a82639ac9d2")
 		(property "Reference" "RL1"
-			(at 199.39 20.32 0)
+			(at 207.01 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12608,7 +12594,7 @@
 			)
 		)
 		(property "Value" "5V/30A"
-			(at 199.39 22.86 0)
+			(at 207.01 24.13 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12618,7 +12604,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:SLA-12VDC-SL-C"
-			(at 200.025 40.386 0)
+			(at 207.645 41.656 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12629,7 +12615,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 202.565 20.32 0)
+			(at 210.185 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12640,7 +12626,7 @@
 			)
 		)
 		(property "Description" "5V 30A SPDT (1 Form C) 6 Plugin,27.6x32mm  Power Relays ROHS"
-			(at 202.565 20.32 0)
+			(at 210.185 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12651,7 +12637,7 @@
 			)
 		)
 		(property "MNP" "SLA-5VDC-SL-C"
-			(at 202.565 20.32 0)
+			(at 210.185 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12662,7 +12648,7 @@
 			)
 		)
 		(property "MFT" "Songle"
-			(at 202.565 20.32 0)
+			(at 210.185 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12701,7 +12687,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 17.78 107.95 90)
+		(at 25.4 109.22 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12709,7 +12695,7 @@
 		(dnp no)
 		(uuid "4fa81a9e-e113-45aa-be12-6468365c0ca2")
 		(property "Reference" "C2"
-			(at 15.24 105.41 90)
+			(at 22.86 106.68 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12720,7 +12706,7 @@
 			)
 		)
 		(property "Value" "10uF/35V"
-			(at 10.16 107.95 90)
+			(at 17.78 109.22 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12731,7 +12717,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP1206"
-			(at 17.78 107.95 0)
+			(at 25.4 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12742,7 +12728,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 17.78 107.95 0)
+			(at 25.4 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12753,7 +12739,7 @@
 			)
 		)
 		(property "Description" "CAP CER 10UF 35V X5R 1206"
-			(at 17.78 107.95 0)
+			(at 25.4 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12764,7 +12750,7 @@
 			)
 		)
 		(property "MFT" "Murata"
-			(at 17.78 107.95 0)
+			(at 25.4 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12775,7 +12761,7 @@
 			)
 		)
 		(property "MNP" "GRT31CR6YA106ME01L"
-			(at 17.78 107.95 0)
+			(at 25.4 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12802,7 +12788,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:DIODE-TVS")
-		(at 45.72 78.74 270)
+		(at 53.34 80.01 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12811,7 +12797,7 @@
 		(dnp no)
 		(uuid "517c0402-c0f1-4a6f-a6d3-21fa8099c0f5")
 		(property "Reference" "D1"
-			(at 38.1 73.6599 90)
+			(at 45.72 74.9299 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12822,7 +12808,7 @@
 			)
 		)
 		(property "Value" "24V"
-			(at 38.1 76.1999 90)
+			(at 45.72 77.4699 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12833,7 +12819,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:DO-214AA-12"
-			(at 45.72 78.74 0)
+			(at 53.34 80.01 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12844,7 +12830,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 78.74 0)
+			(at 53.34 80.01 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12855,7 +12841,7 @@
 			)
 		)
 		(property "Description" "TVS DIODE 24VWM 38.9VC DO214AA"
-			(at 45.72 78.74 0)
+			(at 53.34 80.01 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12866,7 +12852,7 @@
 			)
 		)
 		(property "MNP" "SMBJ24CA-E3/52"
-			(at 35.56 78.74 90)
+			(at 43.18 80.01 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12877,7 +12863,7 @@
 			)
 		)
 		(property "MFT" "  Vishay"
-			(at 45.72 78.74 0)
+			(at 53.34 80.01 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12904,7 +12890,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RES")
-		(at 134.62 41.91 90)
+		(at 142.24 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12912,7 +12898,7 @@
 		(dnp no)
 		(uuid "5508d248-2619-42c6-b079-f0094f33461c")
 		(property "Reference" "R6"
-			(at 140.335 39.37 90)
+			(at 147.955 40.64 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12922,7 +12908,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 139.7 41.91 90)
+			(at 147.32 43.18 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -12932,7 +12918,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:RES1206"
-			(at 134.62 41.91 0)
+			(at 142.24 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12943,7 +12929,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 41.91 0)
+			(at 142.24 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12954,7 +12940,7 @@
 			)
 		)
 		(property "Description" "RES 1M OHM 5% 1/4W 1206"
-			(at 134.62 41.91 0)
+			(at 142.24 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12965,7 +12951,7 @@
 			)
 		)
 		(property "MFT" "Walsin"
-			(at 134.62 41.91 0)
+			(at 142.24 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -12976,7 +12962,7 @@
 			)
 		)
 		(property "MNP" "WR12X105 JTL"
-			(at 134.62 41.91 0)
+			(at 142.24 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13003,7 +12989,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:BRIDGE")
-		(at 154.94 17.78 0)
+		(at 162.56 19.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13011,7 +12997,7 @@
 		(dnp no)
 		(uuid "56b09cfb-62d1-4019-a89b-4ca8d2255a80")
 		(property "Reference" "BR1"
-			(at 161.29 20.32 0)
+			(at 168.91 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13021,7 +13007,7 @@
 			)
 		)
 		(property "Value" "400V/10A"
-			(at 161.29 22.86 0)
+			(at 168.91 24.13 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13031,7 +13017,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:GBJ25xx"
-			(at 154.94 17.78 0)
+			(at 162.56 19.05 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13042,7 +13028,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 17.78 0)
+			(at 162.56 19.05 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13053,7 +13039,7 @@
 			)
 		)
 		(property "Description" "BRIDGE RECT 1PHASE 1KV 25A GBJ"
-			(at 154.94 17.78 0)
+			(at 162.56 19.05 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13064,7 +13050,7 @@
 			)
 		)
 		(property "MNP" "GBJ2510"
-			(at 161.29 38.1 0)
+			(at 168.91 39.37 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13075,7 +13061,7 @@
 			)
 		)
 		(property "MFT" "SMC"
-			(at 154.94 17.78 0)
+			(at 162.56 19.05 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13108,7 +13094,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 78.74 110.49 0)
+		(at 86.36 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13116,7 +13102,7 @@
 		(dnp no)
 		(uuid "572c7a9c-2444-49a9-8cd6-3a0b1d42a44c")
 		(property "Reference" "#PWR014"
-			(at 78.74 116.84 0)
+			(at 86.36 118.11 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13128,7 +13114,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 78.74 114.3 0)
+			(at 86.36 115.57 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13138,7 +13124,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 110.49 0)
+			(at 86.36 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13149,7 +13135,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 110.49 0)
+			(at 86.36 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13160,7 +13146,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 110.49 0)
+			(at 86.36 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13184,7 +13170,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 20.32 81.28 0)
+		(at 27.94 82.55 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13193,7 +13179,7 @@
 		(dnp no)
 		(uuid "57fd7b52-9365-4ead-92bc-749aca625d5f")
 		(property "Reference" "#PWR02"
-			(at 20.32 87.63 0)
+			(at 27.94 88.9 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13205,7 +13191,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 20.32 85.09 0)
+			(at 27.94 86.36 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13215,7 +13201,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 20.32 81.28 0)
+			(at 27.94 82.55 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13226,7 +13212,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 20.32 81.28 0)
+			(at 27.94 82.55 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13237,7 +13223,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 20.32 81.28 0)
+			(at 27.94 82.55 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13261,7 +13247,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:PGND")
-		(at 246.38 36.83 0)
+		(at 254 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13269,7 +13255,7 @@
 		(dnp no)
 		(uuid "5e6559e2-f20f-4010-b715-addbe1884042")
 		(property "Reference" "#PWR036"
-			(at 246.38 41.91 0)
+			(at 254 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13280,7 +13266,7 @@
 			)
 		)
 		(property "Value" "PGND"
-			(at 246.38 40.64 0)
+			(at 254 41.91 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13290,7 +13276,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 36.83 0)
+			(at 254 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13301,7 +13287,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 36.83 0)
+			(at 254 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13312,7 +13298,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 246.38 36.83 0)
+			(at 254 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13336,7 +13322,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:+16V_INV")
-		(at 78.74 100.33 0)
+		(at 86.36 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13344,7 +13330,7 @@
 		(dnp no)
 		(uuid "5e96fb93-7b60-4b3d-b5c3-a66f584c8159")
 		(property "Reference" "#PWR013"
-			(at 78.74 104.14 0)
+			(at 86.36 105.41 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13356,7 +13342,7 @@
 			)
 		)
 		(property "Value" "+16V_INV"
-			(at 78.74 96.52 0)
+			(at 86.36 97.79 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13366,7 +13352,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 100.33 0)
+			(at 86.36 101.6 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13377,7 +13363,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 100.33 0)
+			(at 86.36 101.6 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13388,7 +13374,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 78.74 100.33 0)
+			(at 86.36 101.6 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13412,7 +13398,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:ELECCAP")
-		(at 17.78 73.66 90)
+		(at 25.4 74.93 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13421,7 +13407,7 @@
 		(dnp no)
 		(uuid "62372fe6-61dc-4b38-b7bc-6d262bb147f5")
 		(property "Reference" "C1"
-			(at 17.78 73.66 90)
+			(at 25.4 74.93 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -13432,7 +13418,7 @@
 			)
 		)
 		(property "Value" "470uF/35V"
-			(at 18.415 76.2 90)
+			(at 26.035 77.47 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -13443,7 +13429,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP_ELEC-10.3x10.3-DIA10"
-			(at 17.78 73.66 0)
+			(at 25.4 74.93 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13454,7 +13440,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 17.78 73.66 0)
+			(at 25.4 74.93 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13465,7 +13451,7 @@
 			)
 		)
 		(property "Description" "CAP ALUM POLY 470UF 20% 35V SMD"
-			(at 17.78 73.66 0)
+			(at 25.4 74.93 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13476,7 +13462,7 @@
 			)
 		)
 		(property "MNP" "APD1012471M035R"
-			(at 17.78 78.74 0)
+			(at 25.4 80.01 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13487,7 +13473,7 @@
 			)
 		)
 		(property "MFT" "KYAVX"
-			(at 17.78 73.66 0)
+			(at 25.4 74.93 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13514,7 +13500,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RES")
-		(at 128.27 31.75 90)
+		(at 135.89 33.02 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13522,7 +13508,7 @@
 		(dnp no)
 		(uuid "63c99349-0975-4f74-84c2-57230fab482e")
 		(property "Reference" "R5"
-			(at 127.635 29.21 90)
+			(at 135.255 30.48 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -13532,7 +13518,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 127 31.75 90)
+			(at 134.62 33.02 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -13542,7 +13528,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:RES1206"
-			(at 128.27 31.75 0)
+			(at 135.89 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13553,7 +13539,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 31.75 0)
+			(at 135.89 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13564,7 +13550,7 @@
 			)
 		)
 		(property "Description" "RES 1M OHM 5% 1/4W 1206"
-			(at 128.27 31.75 0)
+			(at 135.89 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13575,7 +13561,7 @@
 			)
 		)
 		(property "MFT" "Walsin"
-			(at 128.27 31.75 0)
+			(at 135.89 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13586,7 +13572,7 @@
 			)
 		)
 		(property "MNP" "WR12X105 JTL"
-			(at 128.27 31.75 0)
+			(at 135.89 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13613,7 +13599,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:PGND")
-		(at 168.91 36.83 0)
+		(at 176.53 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13621,7 +13607,7 @@
 		(dnp no)
 		(uuid "640884e5-f262-458b-b5f3-00d454bcc0ef")
 		(property "Reference" "#PWR024"
-			(at 168.91 41.91 0)
+			(at 176.53 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13632,7 +13618,7 @@
 			)
 		)
 		(property "Value" "PGND"
-			(at 168.91 40.64 0)
+			(at 176.53 41.91 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13642,7 +13628,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 36.83 0)
+			(at 176.53 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13653,7 +13639,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 36.83 0)
+			(at 176.53 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13664,7 +13650,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 168.91 36.83 0)
+			(at 176.53 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13688,7 +13674,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_MCU")
-		(at 201.295 68.58 0)
+		(at 208.915 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13696,7 +13682,7 @@
 		(dnp no)
 		(uuid "6767373b-f034-4206-ae27-22960e1e5e39")
 		(property "Reference" "#PWR027"
-			(at 201.295 74.93 0)
+			(at 208.915 76.2 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13708,7 +13694,7 @@
 			)
 		)
 		(property "Value" "GND_MCU"
-			(at 201.295 72.39 0)
+			(at 208.915 73.66 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13718,7 +13704,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 201.295 68.58 0)
+			(at 208.915 69.85 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13729,7 +13715,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.295 68.58 0)
+			(at 208.915 69.85 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13740,7 +13726,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 201.295 68.58 0)
+			(at 208.915 69.85 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13880,7 +13866,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:MOV")
-		(at 52.07 31.75 90)
+		(at 59.69 33.02 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13888,7 +13874,7 @@
 		(dnp no)
 		(uuid "6cd1b3ec-5caf-422c-b012-1edc39052fdc")
 		(property "Reference" "M3"
-			(at 57.15 29.2099 90)
+			(at 64.77 30.4799 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -13899,7 +13885,7 @@
 			)
 		)
 		(property "Value" "470V/1.2kA"
-			(at 57.15 31.7499 90)
+			(at 64.77 33.0199 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -13910,7 +13896,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:MOV5MM"
-			(at 52.07 31.75 0)
+			(at 59.69 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13921,7 +13907,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 31.75 0)
+			(at 59.69 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13932,7 +13918,7 @@
 			)
 		)
 		(property "Description" "VARISTOR 470V 1.2KA DISC 7MM"
-			(at 52.07 31.75 0)
+			(at 59.69 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13943,7 +13929,7 @@
 			)
 		)
 		(property "MNP" "MOV-07D471KTR"
-			(at 62.23 34.29 90)
+			(at 69.85 35.56 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -13954,7 +13940,7 @@
 			)
 		)
 		(property "MFT" "Bourns"
-			(at 52.07 31.75 0)
+			(at 59.69 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13981,7 +13967,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:Lamp")
-		(at 234.315 12.7 0)
+		(at 241.935 13.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13989,7 +13975,7 @@
 		(dnp no)
 		(uuid "6f168493-0035-4dd3-aa8c-6787f7a1aa3c")
 		(property "Reference" "B1"
-			(at 238.76 13.97 0)
+			(at 246.38 15.24 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -13999,7 +13985,7 @@
 			)
 		)
 		(property "Value" "220V/50W"
-			(at 238.76 20.955 0)
+			(at 246.38 22.225 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14009,7 +13995,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:LAMP_6.35MM"
-			(at 234.315 12.7 0)
+			(at 241.935 13.97 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14020,7 +14006,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.315 12.7 0)
+			(at 241.935 13.97 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14031,7 +14017,7 @@
 			)
 		)
 		(property "Description" "HALOGEN LAMP 220V/50W"
-			(at 234.315 12.7 0)
+			(at 241.935 13.97 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14042,7 +14028,7 @@
 			)
 		)
 		(property "MNP" "1609954437_VNAMZ-6936739394"
-			(at 234.315 12.7 0)
+			(at 241.935 13.97 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14053,7 +14039,7 @@
 			)
 		)
 		(property "MFT" "OEM"
-			(at 234.315 12.7 0)
+			(at 241.935 13.97 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14080,7 +14066,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:DIODE-REC")
-		(at 200.025 40.005 0)
+		(at 207.645 41.275 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14089,7 +14075,7 @@
 		(dnp no)
 		(uuid "73d9a1e5-3dea-4896-a024-40976bece2cb")
 		(property "Reference" "D2"
-			(at 199.39 41.91 0)
+			(at 207.01 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14099,7 +14085,7 @@
 			)
 		)
 		(property "Value" "75V/150mA"
-			(at 199.39 46.99 0)
+			(at 207.01 48.26 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14109,7 +14095,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:SOD-323"
-			(at 200.025 40.005 0)
+			(at 207.645 41.275 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14120,7 +14106,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.025 40.005 0)
+			(at 207.645 41.275 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14131,7 +14117,7 @@
 			)
 		)
 		(property "Description" "DIODE GEN PURP 75V 150MA SOD323"
-			(at 200.025 40.005 0)
+			(at 207.645 41.275 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14142,7 +14128,7 @@
 			)
 		)
 		(property "MNP" "1N4148WX-TP"
-			(at 199.39 49.53 0)
+			(at 207.01 50.8 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14153,7 +14139,7 @@
 			)
 		)
 		(property "MFT" "MCC"
-			(at 200.025 40.005 0)
+			(at 207.645 41.275 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14180,7 +14166,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 29.21 120.65 0)
+		(at 36.83 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14188,7 +14174,7 @@
 		(dnp no)
 		(uuid "75596a51-eb59-422d-beef-18ad0915cab0")
 		(property "Reference" "#PWR06"
-			(at 29.21 127 0)
+			(at 36.83 128.27 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14200,7 +14186,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 29.21 124.46 0)
+			(at 36.83 125.73 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14210,7 +14196,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 120.65 0)
+			(at 36.83 121.92 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14221,7 +14207,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 120.65 0)
+			(at 36.83 121.92 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14232,7 +14218,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 29.21 120.65 0)
+			(at 36.83 121.92 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14256,7 +14242,8 @@
 	)
 	(symbol
 		(lib_id "SAMPI:AC2")
-		(at 73.66 80.01 270)
+		(at 81.28 71.12 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14264,7 +14251,7 @@
 		(dnp no)
 		(uuid "757610cb-cfb0-400d-849e-324b6f1345ab")
 		(property "Reference" "#PWR012"
-			(at 69.85 80.01 0)
+			(at 77.47 71.12 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14275,7 +14262,7 @@
 			)
 		)
 		(property "Value" "AC2"
-			(at 78.74 80.01 90)
+			(at 86.36 71.12 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -14285,7 +14272,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 73.66 80.01 0)
+			(at 81.28 71.12 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14296,7 +14283,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 80.01 0)
+			(at 81.28 71.12 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14307,7 +14294,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.66 80.01 0)
+			(at 81.28 71.12 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14399,7 +14386,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 44.45 105.41 90)
+		(at 52.07 106.68 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14408,7 +14395,7 @@
 		(dnp no)
 		(uuid "7a1ddbf0-600e-477e-8456-d9d617e5d08b")
 		(property "Reference" "C5"
-			(at 48.895 105.41 90)
+			(at 56.515 106.68 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -14419,7 +14406,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 48.895 107.95 90)
+			(at 56.515 109.22 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -14430,7 +14417,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP0603"
-			(at 44.45 105.41 0)
+			(at 52.07 106.68 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14441,7 +14428,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 105.41 0)
+			(at 52.07 106.68 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14452,7 +14439,7 @@
 			)
 		)
 		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
-			(at 44.45 105.41 0)
+			(at 52.07 106.68 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14463,7 +14450,7 @@
 			)
 		)
 		(property "MNP" "CL10B104KB8NNNC"
-			(at 44.45 105.41 90)
+			(at 52.07 106.68 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -14474,7 +14461,7 @@
 			)
 		)
 		(property "MFT" "Samsung"
-			(at 44.45 105.41 0)
+			(at 52.07 106.68 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14501,7 +14488,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RES")
-		(at 121.92 31.75 90)
+		(at 129.54 33.02 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14509,7 +14496,7 @@
 		(dnp no)
 		(uuid "7de6ff0e-970a-48be-be9f-732be560aaca")
 		(property "Reference" "R4"
-			(at 121.285 29.21 90)
+			(at 128.905 30.48 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -14519,7 +14506,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 120.65 31.75 90)
+			(at 128.27 33.02 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -14529,7 +14516,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:RES1206"
-			(at 121.92 31.75 0)
+			(at 129.54 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14540,7 +14527,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 31.75 0)
+			(at 129.54 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14551,7 +14538,7 @@
 			)
 		)
 		(property "Description" "RES 1M OHM 5% 1/4W 1206"
-			(at 121.92 31.75 0)
+			(at 129.54 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14562,7 +14549,7 @@
 			)
 		)
 		(property "MFT" "Walsin"
-			(at 121.92 31.75 0)
+			(at 129.54 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14573,7 +14560,7 @@
 			)
 		)
 		(property "MNP" "WR12X105 JTL"
-			(at 121.92 31.75 0)
+			(at 129.54 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14600,7 +14587,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:+12V_MCU")
-		(at 230.505 36.83 0)
+		(at 238.125 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14608,7 +14595,7 @@
 		(dnp no)
 		(uuid "845dc829-f06f-435c-81c7-64eafed1f63a")
 		(property "Reference" "#PWR031"
-			(at 230.505 40.64 0)
+			(at 238.125 41.91 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14620,7 +14607,7 @@
 			)
 		)
 		(property "Value" "+12V_MCU"
-			(at 231.14 33.02 0)
+			(at 238.76 34.29 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14630,7 +14617,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 230.505 36.83 0)
+			(at 238.125 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14641,7 +14628,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 230.505 36.83 0)
+			(at 238.125 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14652,7 +14639,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 230.505 36.83 0)
+			(at 238.125 38.1 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14675,8 +14662,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VDC")
+		(at 270.51 30.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8809f75f-7ec9-4871-8fd5-ea7a1876bf09")
+		(property "Reference" "#PWR075"
+			(at 273.05 30.48 0)
+			(effects
+				(font
+					(face "Consolas")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDC"
+			(at 266.065 30.48 90)
+			(effects
+				(font
+					(face "Consolas")
+					(size 1.016 1.016)
+					(thickness 0.127)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 270.51 30.48 0)
+			(effects
+				(font
+					(face "Consolas")
+					(size 1.016 1.016)
+					(thickness 0.127)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 270.51 30.48 0)
+			(effects
+				(font
+					(face "Consolas")
+					(size 1.016 1.016)
+					(thickness 0.127)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 270.51 30.48 0)
+			(effects
+				(font
+					(face "Consolas")
+					(size 1.016 1.016)
+					(thickness 0.127)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dcf94df6-2755-4dfd-8506-6c395e6471eb")
+		)
+		(instances
+			(project "HW.ACIM-PSU"
+				(path "/20f80521-75f2-4ccc-bb34-c9566e70ef5c/34b63420-23a7-4d2d-affc-c07be2bf5f59"
+					(reference "#PWR075")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SAMPI:GND_MCU")
-		(at 206.375 62.23 0)
+		(at 213.995 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14684,7 +14746,7 @@
 		(dnp no)
 		(uuid "8ae56822-d2f4-43e1-a41f-cabbdf2dab3a")
 		(property "Reference" "#PWR028"
-			(at 206.375 68.58 0)
+			(at 213.995 69.85 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14696,7 +14758,7 @@
 			)
 		)
 		(property "Value" "GND_MCU"
-			(at 206.375 66.04 0)
+			(at 213.995 67.31 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14706,7 +14768,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 206.375 62.23 0)
+			(at 213.995 63.5 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14717,7 +14779,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 206.375 62.23 0)
+			(at 213.995 63.5 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14728,7 +14790,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 206.375 62.23 0)
+			(at 213.995 63.5 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14752,7 +14814,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:ELECCAP")
-		(at 248.92 31.75 270)
+		(at 256.54 33.02 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14760,7 +14822,7 @@
 		(dnp no)
 		(uuid "90b9e4b5-4682-4e64-93fc-d3e5c8b50c8a")
 		(property "Reference" "C16"
-			(at 248.285 31.75 90)
+			(at 255.905 33.02 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -14771,7 +14833,7 @@
 			)
 		)
 		(property "Value" "680uF/450V"
-			(at 248.285 34.29 90)
+			(at 255.905 35.56 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -14782,7 +14844,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:ESMQ451VSN681MA50S"
-			(at 248.92 31.75 0)
+			(at 256.54 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14793,7 +14855,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 248.92 31.75 0)
+			(at 256.54 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14804,7 +14866,7 @@
 			)
 		)
 		(property "Description" "CAP ALUM 680UF 20% 450V SNAP"
-			(at 248.92 31.75 0)
+			(at 256.54 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14815,7 +14877,7 @@
 			)
 		)
 		(property "MNP" "ESMQ451VSN681MA50S"
-			(at 256.54 36.83 90)
+			(at 264.16 38.1 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -14826,7 +14888,7 @@
 			)
 		)
 		(property "MFT" "Chemi-Con"
-			(at 248.92 31.75 0)
+			(at 256.54 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14853,7 +14915,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:SIL01")
-		(at 22.86 45.72 0)
+		(at 30.48 46.99 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14862,7 +14924,7 @@
 		(dnp no)
 		(uuid "a0416017-fcd8-4b1f-ace8-5acf5dc2890d")
 		(property "Reference" "J7"
-			(at 17.78 44.45 0)
+			(at 25.4 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14871,7 +14933,7 @@
 			)
 		)
 		(property "Value" "TE"
-			(at 17.78 46.355 0)
+			(at 25.4 47.625 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -14879,7 +14941,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:QC-6.3"
-			(at 23.495 41.91 0)
+			(at 31.115 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14888,7 +14950,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 23.495 41.91 0)
+			(at 31.115 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14897,7 +14959,7 @@
 			)
 		)
 		(property "Description" "250 FASTON PCB TAB TPBR"
-			(at 23.495 41.91 0)
+			(at 31.115 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14906,7 +14968,7 @@
 			)
 		)
 		(property "MNP" "2376591-2"
-			(at 23.495 41.91 0)
+			(at 31.115 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14915,7 +14977,7 @@
 			)
 		)
 		(property "MFT" "TE"
-			(at 23.495 41.91 0)
+			(at 31.115 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14937,7 +14999,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 57.15 123.19 0)
+		(at 64.77 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14945,7 +15007,7 @@
 		(dnp no)
 		(uuid "a06c4089-89bd-4b3d-b44b-d0ceb244ac00")
 		(property "Reference" "#PWR08"
-			(at 57.15 129.54 0)
+			(at 64.77 130.81 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14957,7 +15019,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 57.15 127 0)
+			(at 64.77 128.27 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14967,7 +15029,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 123.19 0)
+			(at 64.77 124.46 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14978,7 +15040,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 123.19 0)
+			(at 64.77 124.46 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -14989,7 +15051,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 57.15 123.19 0)
+			(at 64.77 124.46 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15013,7 +15075,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RELAY-SPST-6P")
-		(at 220.345 20.32 0)
+		(at 227.965 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15021,7 +15083,7 @@
 		(dnp no)
 		(uuid "a221f44d-e130-4ca4-a944-b8eafce3c0cf")
 		(property "Reference" "RL2"
-			(at 223.52 20.32 0)
+			(at 231.14 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15031,7 +15093,7 @@
 			)
 		)
 		(property "Value" "5V/30A"
-			(at 223.52 22.86 0)
+			(at 231.14 24.13 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15041,7 +15103,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:SLA-12VDC-SL-C"
-			(at 222.885 40.386 0)
+			(at 230.505 41.656 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15052,7 +15114,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.345 20.32 0)
+			(at 227.965 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15063,7 +15125,7 @@
 			)
 		)
 		(property "Description" "5V 30A SPDT (1 Form C) 6 Plugin,27.6x32mm  Power Relays ROHS"
-			(at 220.345 20.32 0)
+			(at 227.965 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15074,7 +15136,7 @@
 			)
 		)
 		(property "MNP" "SLA-5VDC-SL-C"
-			(at 220.345 20.32 0)
+			(at 227.965 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15085,7 +15147,7 @@
 			)
 		)
 		(property "MFT" "Songle"
-			(at 220.345 20.32 0)
+			(at 227.965 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15124,8 +15186,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CK_Choke_2")
-		(at 71.755 66.04 0)
-		(mirror y)
+		(at 79.375 85.09 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -15133,7 +15194,7 @@
 		(dnp no)
 		(uuid "a99e3994-9dbb-49bb-9038-a37516377e94")
 		(property "Reference" "FT1"
-			(at 69.215 64.77 0)
+			(at 76.835 66.675 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15143,7 +15204,7 @@
 			)
 		)
 		(property "Value" "15mH/500mA"
-			(at 69.215 67.31 0)
+			(at 77.47 68.58 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15153,7 +15214,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:EE8.3"
-			(at 71.755 66.04 0)
+			(at 79.375 85.09 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15164,7 +15225,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.755 66.04 0)
+			(at 79.375 85.09 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15175,7 +15236,7 @@
 			)
 		)
 		(property "Description" "15MH 2 LINE COMMON MODE CHOKE TH"
-			(at 71.755 66.04 0)
+			(at 79.375 85.09 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15186,7 +15247,7 @@
 			)
 		)
 		(property "MNP" "EE8.3-15MH"
-			(at 69.85 67.31 0)
+			(at 77.47 83.82 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15197,7 +15258,7 @@
 			)
 		)
 		(property "MFT" "OEM"
-			(at 71.755 66.04 0)
+			(at 79.375 85.09 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15230,7 +15291,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:+24V_INV")
-		(at 20.32 100.33 0)
+		(at 27.94 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15238,7 +15299,7 @@
 		(dnp no)
 		(uuid "ae559869-15e3-4542-9d1b-2156b42c7017")
 		(property "Reference" "#PWR03"
-			(at 20.32 104.14 0)
+			(at 27.94 105.41 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15250,7 +15311,7 @@
 			)
 		)
 		(property "Value" "+24V_INV"
-			(at 20.32 96.52 0)
+			(at 27.94 97.79 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15260,7 +15321,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 20.32 100.33 0)
+			(at 27.94 101.6 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15271,7 +15332,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 20.32 100.33 0)
+			(at 27.94 101.6 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15282,7 +15343,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 20.32 100.33 0)
+			(at 27.94 101.6 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15306,7 +15367,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:+24V_INV")
-		(at 20.32 68.58 0)
+		(at 27.94 69.85 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15315,7 +15376,7 @@
 		(dnp no)
 		(uuid "ae9d609c-66dd-4439-9fab-a50437693886")
 		(property "Reference" "#PWR01"
-			(at 20.32 72.39 0)
+			(at 27.94 73.66 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15327,7 +15388,7 @@
 			)
 		)
 		(property "Value" "+24V_INV"
-			(at 20.32 64.77 0)
+			(at 27.94 66.04 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15337,7 +15398,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 20.32 68.58 0)
+			(at 27.94 69.85 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15348,7 +15409,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 20.32 68.58 0)
+			(at 27.94 69.85 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15359,7 +15420,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 20.32 68.58 0)
+			(at 27.94 69.85 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15383,7 +15444,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 46.99 120.65 0)
+		(at 54.61 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15391,7 +15452,7 @@
 		(dnp no)
 		(uuid "b13c24f2-f4ea-4ea9-a2fd-4766c3a9818c")
 		(property "Reference" "#PWR07"
-			(at 46.99 127 0)
+			(at 54.61 128.27 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15403,7 +15464,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 46.99 124.46 0)
+			(at 54.61 125.73 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15413,7 +15474,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 120.65 0)
+			(at 54.61 121.92 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15424,7 +15485,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 120.65 0)
+			(at 54.61 121.92 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15435,7 +15496,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 46.99 120.65 0)
+			(at 54.61 121.92 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15459,7 +15520,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:MOV")
-		(at 36.83 41.91 90)
+		(at 44.45 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15467,7 +15528,7 @@
 		(dnp no)
 		(uuid "b4180724-4023-406f-9bf0-e5de90f645b2")
 		(property "Reference" "M2"
-			(at 41.91 39.3699 90)
+			(at 49.53 40.6399 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -15478,7 +15539,7 @@
 			)
 		)
 		(property "Value" "470V/1.2kA"
-			(at 41.91 41.9099 90)
+			(at 49.53 43.1799 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -15489,7 +15550,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:MOV5MM"
-			(at 36.83 41.91 0)
+			(at 44.45 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15500,7 +15561,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 36.83 41.91 0)
+			(at 44.45 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15511,7 +15572,7 @@
 			)
 		)
 		(property "Description" "VARISTOR 470V 1.2KA DISC 7MM"
-			(at 36.83 41.91 0)
+			(at 44.45 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15522,7 +15583,7 @@
 			)
 		)
 		(property "MNP" "MOV-07D471KTR"
-			(at 46.99 44.45 90)
+			(at 54.61 45.72 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -15533,7 +15594,7 @@
 			)
 		)
 		(property "MFT" "Bourns"
-			(at 36.83 41.91 0)
+			(at 44.45 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15560,7 +15621,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:SIL08")
-		(at 234.315 98.425 0)
+		(at 241.935 99.695 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15569,7 +15630,7 @@
 		(dnp no)
 		(uuid "b5f50927-75c6-4f7a-8d34-0337833b47d8")
 		(property "Reference" "J3"
-			(at 234.315 72.39 0)
+			(at 241.935 73.66 0)
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -15579,7 +15640,7 @@
 			)
 		)
 		(property "Value" "INV PWR & RELAYS"
-			(at 238.125 76.2 90)
+			(at 245.745 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15588,7 +15649,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:HDM1x8x2.54_TH_RA"
-			(at 234.315 98.425 0)
+			(at 241.935 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15597,7 +15658,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.315 98.425 0)
+			(at 241.935 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15606,7 +15667,7 @@
 			)
 		)
 		(property "Description" "CONN HEADER R/A 8POS 2.54MM"
-			(at 234.315 98.425 0)
+			(at 241.935 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15615,7 +15676,7 @@
 			)
 		)
 		(property "MFT" "Sullins"
-			(at 234.315 98.425 0)
+			(at 241.935 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15624,7 +15685,7 @@
 			)
 		)
 		(property "MNP" "PBC08SBAN"
-			(at 245.745 80.645 0)
+			(at 253.365 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15633,7 +15694,7 @@
 			)
 		)
 		(property "Unit Price" ""
-			(at 234.315 98.425 0)
+			(at 241.935 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15642,7 +15703,7 @@
 			)
 		)
 		(property "Checked" "OK"
-			(at 234.315 98.425 0)
+			(at 241.935 99.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15679,7 +15740,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CHASSIS")
-		(at 115.57 44.45 0)
+		(at 123.19 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15687,7 +15748,7 @@
 		(dnp no)
 		(uuid "c07c54d7-b3eb-4939-81bc-a6eadb25fa2d")
 		(property "Reference" "#PWR020"
-			(at 115.57 42.545 0)
+			(at 123.19 43.815 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15699,7 +15760,7 @@
 			)
 		)
 		(property "Value" "CHASSIS"
-			(at 115.57 48.26 0)
+			(at 123.19 49.53 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15709,7 +15770,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 44.45 0)
+			(at 123.19 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15720,7 +15781,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 44.45 0)
+			(at 123.19 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15731,7 +15792,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 44.45 0)
+			(at 123.19 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15755,7 +15816,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 68.58 110.49 0)
+		(at 76.2 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15763,7 +15824,7 @@
 		(dnp no)
 		(uuid "c14a0864-7366-46e1-9804-797905979198")
 		(property "Reference" "#PWR09"
-			(at 68.58 116.84 0)
+			(at 76.2 118.11 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15775,7 +15836,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 68.58 114.3 0)
+			(at 76.2 115.57 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15785,7 +15846,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 68.58 110.49 0)
+			(at 76.2 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15796,7 +15857,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 110.49 0)
+			(at 76.2 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15807,7 +15868,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 68.58 110.49 0)
+			(at 76.2 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15831,7 +15892,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RES")
-		(at 54.61 120.65 90)
+		(at 62.23 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15839,7 +15900,7 @@
 		(dnp no)
 		(uuid "c181dc02-f3c5-4d54-8b9f-d5420e0d7ff5")
 		(property "Reference" "R3"
-			(at 60.325 118.11 90)
+			(at 67.945 119.38 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -15849,7 +15910,7 @@
 			)
 		)
 		(property "Value" "10K, 1%"
-			(at 62.23 120.65 90)
+			(at 69.85 121.92 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -15859,7 +15920,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:RES0603"
-			(at 54.61 120.65 0)
+			(at 62.23 121.92 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15870,7 +15931,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 120.65 0)
+			(at 62.23 121.92 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15881,7 +15942,7 @@
 			)
 		)
 		(property "Description" "RES 10K OHM 1% 1/10W 0603"
-			(at 54.61 120.65 0)
+			(at 62.23 121.92 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15892,7 +15953,7 @@
 			)
 		)
 		(property "MFT" "YAGEO"
-			(at 54.61 120.65 0)
+			(at 62.23 121.92 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15903,7 +15964,7 @@
 			)
 		)
 		(property "MNP" "RC0603FR-0710KL"
-			(at 54.61 120.65 0)
+			(at 62.23 121.92 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -15930,7 +15991,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:SIL01")
-		(at 22.86 35.56 0)
+		(at 30.48 36.83 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15939,7 +16000,7 @@
 		(dnp no)
 		(uuid "c30da75a-3533-4cc7-b3ab-47ffa4c46f1e")
 		(property "Reference" "J8"
-			(at 17.78 34.29 0)
+			(at 25.4 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15948,7 +16009,7 @@
 			)
 		)
 		(property "Value" "NEUTRAL"
-			(at 17.145 36.195 0)
+			(at 24.765 37.465 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -15956,7 +16017,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:QC-6.3"
-			(at 23.495 31.75 0)
+			(at 31.115 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15965,7 +16026,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 23.495 31.75 0)
+			(at 31.115 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15974,7 +16035,7 @@
 			)
 		)
 		(property "Description" "250 FASTON PCB TAB TPBR"
-			(at 23.495 31.75 0)
+			(at 31.115 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15983,7 +16044,7 @@
 			)
 		)
 		(property "MNP" "2376591-2"
-			(at 23.495 31.75 0)
+			(at 31.115 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15992,7 +16053,7 @@
 			)
 		)
 		(property "MFT" "TE"
-			(at 23.495 31.75 0)
+			(at 31.115 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16014,7 +16075,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RES")
-		(at 203.835 63.5 270)
+		(at 211.455 64.77 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16022,7 +16083,7 @@
 		(dnp no)
 		(uuid "c7a83152-8422-47a5-af23-817d53331fc4")
 		(property "Reference" "R10"
-			(at 198.12 63.5 90)
+			(at 205.74 64.77 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16032,7 +16093,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 198.12 66.04 90)
+			(at 205.74 67.31 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16042,7 +16103,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:RES0603"
-			(at 203.835 63.5 0)
+			(at 211.455 64.77 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16053,7 +16114,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.835 63.5 0)
+			(at 211.455 64.77 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16064,7 +16125,7 @@
 			)
 		)
 		(property "Description" "RES 10K OHM 5% 1/10W 0603"
-			(at 203.835 63.5 0)
+			(at 211.455 64.77 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16075,7 +16136,7 @@
 			)
 		)
 		(property "MFT" "YAGEO"
-			(at 203.835 63.5 0)
+			(at 211.455 64.77 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16086,7 +16147,7 @@
 			)
 		)
 		(property "MNP" "RC0603JR-0710KL"
-			(at 203.835 63.5 0)
+			(at 211.455 64.77 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16113,7 +16174,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:FET_N-CH")
-		(at 202.565 54.61 0)
+		(at 210.185 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16121,7 +16182,7 @@
 		(dnp no)
 		(uuid "cc04aca3-aabf-4c7b-b76a-1a2fd7b0aa3e")
 		(property "Reference" "Q1"
-			(at 201.295 53.975 0)
+			(at 208.915 55.245 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16131,7 +16192,7 @@
 			)
 		)
 		(property "Value" "20V/1A"
-			(at 200.66 56.515 0)
+			(at 208.28 57.785 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16141,7 +16202,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:SOT23"
-			(at 202.565 54.61 0)
+			(at 210.185 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16152,7 +16213,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 202.565 54.61 0)
+			(at 210.185 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16163,7 +16224,7 @@
 			)
 		)
 		(property "Description" "MOSFET N-CH 20 V 1.6A SOT-23-3"
-			(at 202.565 54.61 0)
+			(at 210.185 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16174,7 +16235,7 @@
 			)
 		)
 		(property "MNP" "DMN2310U-7"
-			(at 207.645 67.31 90)
+			(at 215.265 68.58 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16185,7 +16246,7 @@
 			)
 		)
 		(property "MFT" "Diodes"
-			(at 202.565 54.61 0)
+			(at 210.185 55.88 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16215,7 +16276,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:GND_INV")
-		(at 101.6 110.49 0)
+		(at 109.22 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16223,7 +16284,7 @@
 		(dnp no)
 		(uuid "cf7483fe-a71f-4b0f-8b27-18200b47554b")
 		(property "Reference" "#PWR018"
-			(at 101.6 116.84 0)
+			(at 109.22 118.11 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16235,7 +16296,7 @@
 			)
 		)
 		(property "Value" "GND_INV"
-			(at 101.6 114.3 0)
+			(at 109.22 115.57 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16245,7 +16306,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 110.49 0)
+			(at 109.22 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16256,7 +16317,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 110.49 0)
+			(at 109.22 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16267,7 +16328,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 110.49 0)
+			(at 109.22 111.76 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16291,7 +16352,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CHASSIS")
-		(at 102.87 44.45 0)
+		(at 110.49 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16299,7 +16360,7 @@
 		(dnp no)
 		(uuid "d56692e8-538c-4f28-a742-a0d647844d44")
 		(property "Reference" "#PWR019"
-			(at 102.87 42.545 0)
+			(at 110.49 43.815 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16311,7 +16372,7 @@
 			)
 		)
 		(property "Value" "CHASSIS"
-			(at 102.87 48.26 0)
+			(at 110.49 49.53 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16321,7 +16382,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 102.87 44.45 0)
+			(at 110.49 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16332,7 +16393,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 44.45 0)
+			(at 110.49 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16343,7 +16404,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 102.87 44.45 0)
+			(at 110.49 45.72 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16367,7 +16428,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 67.31 39.37 90)
+		(at 74.93 40.64 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16376,7 +16437,7 @@
 		(dnp no)
 		(uuid "d7ae2c4f-f4b4-4f74-ae13-6d8be1f3b94c")
 		(property "Reference" "C9"
-			(at 66.04 38.1 90)
+			(at 73.66 39.37 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16386,7 +16447,7 @@
 			)
 		)
 		(property "Value" "100pF/2kV"
-			(at 63.5 40.64 90)
+			(at 71.12 41.91 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16396,7 +16457,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:CAP1206"
-			(at 67.31 39.37 0)
+			(at 74.93 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16407,7 +16468,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 39.37 0)
+			(at 74.93 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16418,7 +16479,7 @@
 			)
 		)
 		(property "Description" "CAP CER 100PF 2000V X7R 1206"
-			(at 67.31 39.37 0)
+			(at 74.93 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16429,7 +16490,7 @@
 			)
 		)
 		(property "MNP" "885342208022"
-			(at 62.23 43.18 90)
+			(at 69.85 44.45 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16440,7 +16501,7 @@
 			)
 		)
 		(property "MFT" "WE"
-			(at 67.31 39.37 0)
+			(at 74.93 40.64 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16467,7 +16528,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RES")
-		(at 31.75 107.95 270)
+		(at 39.37 109.22 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16476,7 +16537,7 @@
 		(dnp no)
 		(uuid "d839c5d7-704e-4ad7-a4c0-5e87bf654e4b")
 		(property "Reference" "R1"
-			(at 25.4 105.41 90)
+			(at 33.02 106.68 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16486,7 +16547,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 25.4 107.95 90)
+			(at 33.02 109.22 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16496,7 +16557,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:RES0603"
-			(at 31.75 107.95 0)
+			(at 39.37 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16507,7 +16568,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 107.95 0)
+			(at 39.37 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16518,7 +16579,7 @@
 			)
 		)
 		(property "Description" "RES 10K OHM 5% 1/10W 0603"
-			(at 31.75 107.95 0)
+			(at 39.37 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16529,7 +16590,7 @@
 			)
 		)
 		(property "MFT" "YAGEO"
-			(at 31.75 107.95 0)
+			(at 39.37 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16540,7 +16601,7 @@
 			)
 		)
 		(property "MNP" "RC0603JR-0710KL"
-			(at 31.75 107.95 0)
+			(at 39.37 109.22 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16567,7 +16628,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:CERCAP")
-		(at 113.03 31.75 90)
+		(at 120.65 33.02 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16575,7 +16636,7 @@
 		(dnp no)
 		(uuid "ddbbd2fb-fb96-416f-a47e-97c4666bc859")
 		(property "Reference" "C14"
-			(at 109.855 29.21 90)
+			(at 117.475 30.48 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16586,7 +16647,7 @@
 			)
 		)
 		(property "Value" "1uF/400V"
-			(at 105.41 31.75 90)
+			(at 113.03 33.02 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16597,7 +16658,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:ECWFE2W105"
-			(at 113.03 31.75 0)
+			(at 120.65 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16608,7 +16669,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 31.75 0)
+			(at 120.65 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16619,7 +16680,7 @@
 			)
 		)
 		(property "Description" "CAP FILM 1UF 10% 450VDC RADIAL"
-			(at 113.03 31.75 0)
+			(at 120.65 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16630,7 +16691,7 @@
 			)
 		)
 		(property "MNP" "ECW-FE2W105K\n"
-			(at 107.95 34.29 90)
+			(at 115.57 35.56 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16641,7 +16702,7 @@
 			)
 		)
 		(property "MFT" "Panasonic"
-			(at 113.03 31.75 0)
+			(at 120.65 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16668,7 +16729,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:FerriteBead")
-		(at 160.655 41.91 0)
+		(at 168.275 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16676,7 +16737,7 @@
 		(dnp no)
 		(uuid "e3ebaf9a-3ed8-4c45-945e-9ec87c5a1def")
 		(property "Reference" "FT3"
-			(at 161.29 43.18 0)
+			(at 168.91 44.45 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16686,7 +16747,7 @@
 			)
 		)
 		(property "Value" "120R@100MHz"
-			(at 160.655 47.625 0)
+			(at 168.275 48.895 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16696,7 +16757,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:FT0603"
-			(at 160.655 41.91 0)
+			(at 168.275 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16707,7 +16768,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.655 41.91 0)
+			(at 168.275 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16718,7 +16779,7 @@
 			)
 		)
 		(property "Description" "FERRITE BEAD 120 OHM 1A 0603 1LN"
-			(at 160.655 41.91 0)
+			(at 168.275 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16729,7 +16790,7 @@
 			)
 		)
 		(property "MFT" "Pulse"
-			(at 160.655 41.91 0)
+			(at 168.275 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16740,7 +16801,7 @@
 			)
 		)
 		(property "MNP" "PE-0603PFB121ST"
-			(at 160.655 41.91 0)
+			(at 168.275 43.18 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16767,7 +16828,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:MOV")
-		(at 36.83 31.75 90)
+		(at 44.45 33.02 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16775,7 +16836,7 @@
 		(dnp no)
 		(uuid "e7bce197-2426-4c42-bafb-406b2203e5ad")
 		(property "Reference" "M1"
-			(at 41.91 29.2099 90)
+			(at 49.53 30.4799 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16786,7 +16847,7 @@
 			)
 		)
 		(property "Value" "470V/1.2kA"
-			(at 41.91 31.7499 90)
+			(at 49.53 33.0199 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16797,7 +16858,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:MOV5MM"
-			(at 36.83 31.75 0)
+			(at 44.45 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16808,7 +16869,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 36.83 31.75 0)
+			(at 44.45 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16819,7 +16880,7 @@
 			)
 		)
 		(property "Description" "VARISTOR 470V 1.2KA DISC 7MM"
-			(at 36.83 31.75 0)
+			(at 44.45 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16830,7 +16891,7 @@
 			)
 		)
 		(property "MNP" "MOV-07D471KTR"
-			(at 46.99 34.29 90)
+			(at 54.61 35.56 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -16841,7 +16902,7 @@
 			)
 		)
 		(property "MFT" "Bourns"
-			(at 36.83 31.75 0)
+			(at 44.45 33.02 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16868,7 +16929,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:AC1")
-		(at 153.67 24.13 0)
+		(at 161.29 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16876,7 +16937,7 @@
 		(dnp no)
 		(uuid "f18ae8f6-aaa1-4ea2-8a72-76b5bd7ce70c")
 		(property "Reference" "#PWR021"
-			(at 153.67 27.94 0)
+			(at 161.29 29.21 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16887,7 +16948,7 @@
 			)
 		)
 		(property "Value" "AC1"
-			(at 153.67 20.32 0)
+			(at 161.29 21.59 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16897,7 +16958,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 24.13 0)
+			(at 161.29 25.4 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16908,7 +16969,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 24.13 0)
+			(at 161.29 25.4 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16919,7 +16980,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 153.67 24.13 0)
+			(at 161.29 25.4 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16943,7 +17004,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:LDO_BDxxFA1FP3")
-		(at 92.71 96.52 0)
+		(at 100.33 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16951,7 +17012,7 @@
 		(dnp no)
 		(uuid "f246f3df-1198-4440-8478-36cb24ef9fa1")
 		(property "Reference" "U2"
-			(at 92.71 96.52 0)
+			(at 100.33 97.79 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16962,7 +17023,7 @@
 			)
 		)
 		(property "Value" "LDO 5V±1%"
-			(at 92.71 98.425 0)
+			(at 100.33 99.695 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16972,7 +17033,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:SOT-89"
-			(at 92.71 98.425 0)
+			(at 100.33 99.695 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16983,7 +17044,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.71 96.52 0)
+			(at 100.33 97.79 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -16994,7 +17055,7 @@
 			)
 		)
 		(property "Description" "PMIC LDO SMD SOT89-3K POSFIX 5V 100mA 25VIMAX 1VDROP"
-			(at 92.71 98.425 0)
+			(at 100.33 99.695 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17005,7 +17066,7 @@
 			)
 		)
 		(property "MNP" "BD50FA1FP3-ZTL"
-			(at 92.71 98.425 0)
+			(at 100.33 99.695 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17016,7 +17077,7 @@
 			)
 		)
 		(property "MFT" "ROHM"
-			(at 92.71 98.425 0)
+			(at 100.33 99.695 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17046,7 +17107,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RES")
-		(at 175.895 25.4 0)
+		(at 183.515 26.67 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17055,7 +17116,7 @@
 		(dnp no)
 		(uuid "f93e6b03-2806-43cd-9632-ece363e354dd")
 		(property "Reference" "R8"
-			(at 172.72 30.48 0)
+			(at 180.34 31.75 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17065,7 +17126,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 177.165 30.48 0)
+			(at 184.785 31.75 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17075,7 +17136,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:RES1206"
-			(at 175.895 25.4 0)
+			(at 183.515 26.67 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17086,7 +17147,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.895 25.4 0)
+			(at 183.515 26.67 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17097,7 +17158,7 @@
 			)
 		)
 		(property "Description" "RES 1M OHM 5% 1/4W 1206"
-			(at 175.895 25.4 0)
+			(at 183.515 26.67 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17108,7 +17169,7 @@
 			)
 		)
 		(property "MFT" "Walsin"
-			(at 175.895 25.4 0)
+			(at 183.515 26.67 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17119,7 +17180,7 @@
 			)
 		)
 		(property "MNP" "WR12X105 JTL"
-			(at 175.895 25.4 0)
+			(at 183.515 26.67 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17146,7 +17207,7 @@
 	)
 	(symbol
 		(lib_id "SAMPI:RES")
-		(at 219.075 63.5 90)
+		(at 226.695 64.77 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17155,7 +17216,7 @@
 		(dnp no)
 		(uuid "ff9decc1-70b4-4b4c-9b25-071f5354687b")
 		(property "Reference" "R11"
-			(at 224.79 63.5 90)
+			(at 232.41 64.77 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -17165,7 +17226,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 224.79 66.04 90)
+			(at 232.41 67.31 90)
 			(effects
 				(font
 					(face "Consolas")
@@ -17175,7 +17236,7 @@
 			)
 		)
 		(property "Footprint" "SAMPI:RES0603"
-			(at 219.075 63.5 0)
+			(at 226.695 64.77 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17186,7 +17247,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 219.075 63.5 0)
+			(at 226.695 64.77 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17197,7 +17258,7 @@
 			)
 		)
 		(property "Description" "RES 10K OHM 5% 1/10W 0603"
-			(at 219.075 63.5 0)
+			(at 226.695 64.77 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17208,7 +17269,7 @@
 			)
 		)
 		(property "MFT" "YAGEO"
-			(at 219.075 63.5 0)
+			(at 226.695 64.77 0)
 			(effects
 				(font
 					(face "Consolas")
@@ -17219,7 +17280,7 @@
 			)
 		)
 		(property "MNP" "RC0603JR-0710KL"
-			(at 219.075 63.5 0)
+			(at 226.695 64.77 0)
 			(effects
 				(font
 					(face "Consolas")
