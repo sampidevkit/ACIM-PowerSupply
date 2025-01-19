@@ -219,18 +219,6 @@
 		)
 		(uuid "76aee08b-4747-4a07-8088-6d055465265b")
 	)
-	(text "Inter-Connection"
-		(exclude_from_sim no)
-		(at 211.455 163.83 0)
-		(effects
-			(font
-				(face "Consolas")
-				(size 1.016 1.016)
-				(thickness 0.127)
-			)
-		)
-		(uuid "e90a6b52-d01a-47e0-b9ca-89f31d9719be")
-	)
 	(symbol
 		(lib_id "SAMPI:SCREWHOLDER")
 		(at 82.55 86.995 0)
